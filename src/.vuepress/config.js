@@ -29,6 +29,7 @@ module.exports = {
   },
   plugins: [
     '@vuepress/back-to-top',
+
     // [ '@vuepress/google-analytics', { 'ga': 'UA-150935641-1' } ],
     // [
     //   '@vuepress/last-updated',

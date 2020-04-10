@@ -1,5 +1,8 @@
 # Menu
 
+[[toc]]
+
+
 ## SALADS
 
 ### Spanish Prawn Salad
@@ -12,6 +15,22 @@ An amazing fresh salad made with shrimp, avocado, oranges, homemade salsa rosa, 
 
 An amazing fresh salad made with shrimp, avocado, oranges, homemade salsa rosa, on a bed of shredded lettuce. In Spain, salsa rosa is the classic, go-to sauce for seafood cocktails or salads.
 
+
+::: tip wolol
+This is a tip
+:::
+
+::: warning omg
+This is a warning
+:::
+
+::: danger rly?
+This is a dangerous warning
+:::
+
+::: details haha
+This is a details block, which does not work in IE / Edge
+:::
 
 
 ## APPETIZERS

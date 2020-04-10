@@ -19,5 +19,8 @@
   "homepage": "",
   "dependencies": {
     "vuepress": "^1.2.0"
+  },
+  "devDependencies": {
+    "vuepress-plugin-seo": "^0.1.2"
   }
 }
