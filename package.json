@@ -1,0 +1,23 @@
+{
+  "name": "press.osweekends.com",
+  "version": "1.0.0",
+  "description": "En tu casa Whistler",
+  "scripts": {
+    "serve": "vuepress dev src",
+    "build": "vuepress build src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baumannzone/entucasa.git"
+  },
+  "author": "Baumannzone",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
