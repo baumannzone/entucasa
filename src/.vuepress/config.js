@@ -14,6 +14,11 @@ module.exports = {
       {text: 'Contact', link: '/contact/'},
       {text: 'About', link: '/about/'}
     ],
+    sidebar: [
+      '/about/',
+      '/menu/',
+      ['/services/', 'Explicit link text']
+    ],
     nextLinks: true,
     prevLinks: true,
     smoothScroll: true,
