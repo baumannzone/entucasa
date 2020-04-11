@@ -2,6 +2,7 @@
 
 [[toc]]
 
+MARKDOWN
 
 ## SALADS
 
@@ -40,11 +41,20 @@ This is a details block, which does not work in IE / Edge
 
 Our own selection of Spanish meats — jamón serrano, chorizo and salchichon (salami), imported from Spain.
 
-### Cheese Board
+### Cheese Board <Badge text="New" type="danger"/>
 > $18.00
 
 Chef’s selection of Spanish cheeses and Brie: 24 months cured Manchego cheese, 12 months cured rosemary Manchego cheese, and an amazing Valdeon blue cheese wrapped in chestnut leaves that will surely melt in your mouth. Served with two types of marmalade and honey.
 
 
 ### Badge <Badge text="beta" type="warning"/> <Badge text="default theme"/>
+
+```
+hola 
+esto es un texto de prueba
+a ve rque tal queda
+> laksjdhas
+
+# 123123
+```
 
