@@ -5,7 +5,7 @@ module.exports = {
     lineNumbers: true
   },
   themeConfig: {
-    logo: '/assets/img/logo.png',
+    logo: '/img/logo.png',
     docsDir: 'src',
     nav: [
       {text: 'Home', link: '/'},
@@ -14,33 +14,34 @@ module.exports = {
       {text: 'Contact', link: '/contact/'},
       {text: 'About', link: '/about/'}
     ],
-    // repo: 'baumannzone/entucasa',
-    // editLinks: true,
-    // editLinkText: 'Editar en GitHub',
-    // nextLinks: true,
-    // prevLinks: true,
-    // lastUpdated: 'Última actualización', // string | boolean
-    // nav: [
-    //   { text: 'Home', link: '/' },
-    //   { text: 'About', link: '/about/' }
-    // ],
+    nextLinks: true,
+    prevLinks: true,
     smoothScroll: true,
-    // searchPlaceholder: 'Search...'
   },
   plugins: [
     '@vuepress/back-to-top',
-
-    // [ '@vuepress/google-analytics', { 'ga': 'UA-150935641-1' } ],
-    // [
-    //   '@vuepress/last-updated',
-    //   {
-    //     transformer: ( timestamp, lang ) => {
-    //       const moment = require( 'moment' )
-    //       moment.locale( 'es' )
-    //       return moment( timestamp ).fromNow()
-    //     }
-    //   }
-    // ],
-    // 'vuepress-plugin-reading-time'
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': ''
+        // UA-00000000-0
+      }
+    ],
+    [
+      'seo',
+      {
+        siteTitle: (_, $site) => $site.title,
+        title: $page => $page.title,
+        description: $page => $page.frontmatter.description,
+        author: (_, $site) => $site.themeConfig.author,
+        tags: $page => $page.frontmatter.tags,
+        twitterCard: _ => 'summary_large_image',
+        // type: $page => ['articles', 'posts', 'blog'].some(folder => $page.regularPath.startsWith('/' + folder)) ? 'article' : 'website',
+        url: (_, $site, path) => ($site.themeConfig.domain || '') + path,
+        image: ($page, $site) => $page.frontmatter.image && (($site.themeConfig.domain || '') + $page.frontmatter.image),
+        publishedAt: $page => $page.frontmatter.date && new Date($page.frontmatter.date),
+        modifiedAt: $page => $page.lastUpdated && new Date($page.lastUpdated),
+      }
+    ]
   ]
 }
