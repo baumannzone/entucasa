@@ -8,7 +8,7 @@ module.exports = {
     logo: '/img/logo.png',
     docsDir: 'src',
     nav: [
-      {text: 'Home', link: '/'},
+      {text: 'Casa', link: '/'},
       {text: 'Menu', link: '/menu/'},
       {text: 'Services', link: '/services/'},
       {text: 'Contact', link: '/contact/'},
