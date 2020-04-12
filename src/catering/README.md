@@ -1,10 +1,11 @@
+---
+
+sidebar: true
+
+---
+
 # Catering Menu
 We offer a diferent kind of services from a siplmy drop off for a cassual event, a creative grazing table or full dinner service, we have you covered. Check our services for more info.
-
-- Quiero ir a SALADS: [enlace](/catering/salads/)
-- Quiero ir a BOCADILÑOS: [enlace](/catering/salads/)
-- Quiero ir a PAELLAS: [enlace](/catering/salads/)
-- Quiero ir a DULCES: [enlace](/catering/salads/)
 
 
 ## Appetizers

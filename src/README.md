@@ -1,11 +1,7 @@
 ---
+
 sidebar: false
-lang: en-CA
-meta:
-  - name: description
-    content: hello
-  - name: keywords
-    content: super duper SEO
+
 ---
 
 # En Tu Casa · Home Cooking
