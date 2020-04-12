@@ -1,6 +1,6 @@
 ---
 title: Blogging Like a Hacker
-lang: en-US
+lang: en-CA
 meta:
   - name: description
     content: hello
