@@ -31,6 +31,7 @@ module.exports = {
   },
   plugins: [
     '@vuepress/back-to-top',
+    '@vuepress/nprogress',
     [
       '@vuepress/google-analytics',
       {
@@ -53,21 +54,63 @@ module.exports = {
         publishedAt: $page => $page.frontmatter.date && new Date($page.frontmatter.date),
         modifiedAt: $page => $page.lastUpdated && new Date($page.lastUpdated),
       }
+    ],
+    [
+      'robots',
+      {
+        /**
+         * @host
+         * Mandatory, You have to provide the host URL
+         */
+        host: 'https://entucasa.netlify.com/',
+        /**
+         * @disallowAll
+         * Optional: if it's true, all others options are ignored and exclude all robots from the entire server
+         */
+        disallowAll: false,
+        /**
+         * @allowAll
+         * Optional: if it's true and @disallowAll is false, all others options are ignored and allow all robots complete access
+         */
+        allowAll: true,
+        /**
+         * @sitemap
+         * Optional, by default: sitemap.xml
+         */
+        sitemap: '/sitemap.xml',
+        /**
+         * @policies
+         * Optional, by default: null
+         */
+        policies: [
+          {
+            userAgent: '*',
+            disallow: [],
+            allow: ['/']
+          }
+        ]
+      }
+    ],
+    [
+      'sitemap',
+      {
+        hostname: 'https://entucasa.netlify.com/'
+      },
     ]
   ],
   head: [
-    ['link', { rel: 'icon', href: `/img/favicon.png` }],
-    ['meta', { name: 'theme-color', content: color }],
-    ['meta', { prefix: ogprefix, property: 'og:locale', content: 'en_CA' }],
-    ['meta', { prefix: ogprefix, property: 'og:title', content: title }],
-    ['meta', { prefix: ogprefix, property: 'twitter:title', content: title }],
-    ['meta', { prefix: ogprefix, property: 'og:type', content: 'website' }],
-    ['meta', { prefix: ogprefix, property: 'og:url', content: 'https://entucasa.netlify.com' }],
-    ['meta', { prefix: ogprefix, property: 'og:description', content: description }],
-    ['meta', { prefix: ogprefix, property: 'og:image', content: 'https://entucasa.netlify.com/img/logo.png' }],
-    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-    ['link', { rel: 'apple-touch-icon', href: `/img/favicon.png` }],
-    ['link', { rel: 'mask-icon', href: '/img/favicon.png', color: color }]
+    ['link', {rel: 'icon', href: `/img/favicon.png`}],
+    ['meta', {name: 'theme-color', content: color}],
+    ['meta', {prefix: ogprefix, property: 'og:locale', content: 'en_CA'}],
+    ['meta', {prefix: ogprefix, property: 'og:title', content: title}],
+    ['meta', {prefix: ogprefix, property: 'twitter:title', content: title}],
+    ['meta', {prefix: ogprefix, property: 'og:type', content: 'website'}],
+    ['meta', {prefix: ogprefix, property: 'og:url', content: 'https://entucasa.netlify.com'}],
+    ['meta', {prefix: ogprefix, property: 'og:description', content: description}],
+    ['meta', {prefix: ogprefix, property: 'og:image', content: 'https://entucasa.netlify.com/img/logo.png'}],
+    ['meta', {name: 'apple-mobile-web-app-capable', content: 'yes'}],
+    ['meta', {name: 'apple-mobile-web-app-status-bar-style', content: 'black'}],
+    ['link', {rel: 'apple-touch-icon', href: `/img/favicon.png`}],
+    ['link', {rel: 'mask-icon', href: '/img/favicon.png', color: color}]
   ],
 }
