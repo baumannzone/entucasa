@@ -1,8 +1,11 @@
+---
+
+sidebar: false
+
+---
+
+
 # Menu
-
-[[toc]]
-
-MARKDOWN
 
 ## SALADS
 

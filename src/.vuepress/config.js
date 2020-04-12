@@ -17,6 +17,7 @@ module.exports = {
       {text: 'Home', link: '/'},
       {text: 'Delivery Menu', link: '/delivery-menu/'},
       {text: 'Catering', link: '/catering/'},
+      {text: 'Services', link: '/services/'},
       {text: 'Contact', link: '/contact/'},
       {text: 'About', link: '/about/'}
     ],
