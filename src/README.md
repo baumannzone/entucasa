@@ -1,4 +1,5 @@
 ---
+sidebar: false
 lang: en-CA
 meta:
   - name: description

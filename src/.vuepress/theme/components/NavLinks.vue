@@ -30,15 +30,6 @@
       {{ repoLabel }}
       <OutboundLink />
     </a>
-
-    <a href="https://instagram.com"
-      class="repo-link"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      Instagram
-      <OutboundLink />
-    </a>
   </nav>
 </template>
 

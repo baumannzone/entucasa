@@ -8,23 +8,23 @@ module.exports = {
   title: 'En Tu Casa Whistler',
   description: 'Home Cooking',
   markdown: {
-    lineNumbers: true
+    lineNumbers: false
   },
   themeConfig: {
     logo: '/img/logo.png',
     docsDir: 'src',
     nav: [
-      {text: 'Casa', link: '/'},
-      {text: 'Menu', link: '/menu/'},
-      {text: 'Services', link: '/services/'},
+      {text: 'Home', link: '/'},
+      {text: 'Delivery Menu', link: '/delivery-menu/'},
+      {text: 'Catering', link: '/catering/'},
       {text: 'Contact', link: '/contact/'},
       {text: 'About', link: '/about/'}
     ],
-    sidebar: [
-      '/about/',
-      '/menu/',
-      ['/services/', 'Explicit link text']
-    ],
+    // sidebar: [
+    //   '/about/',
+    //   '/menu/',
+    //   ['/services/', 'Explicit link text']
+    // ],
     nextLinks: true,
     prevLinks: true,
     smoothScroll: true,
@@ -107,10 +107,6 @@ module.exports = {
     ['meta', {prefix: ogprefix, property: 'og:type', content: 'website'}],
     ['meta', {prefix: ogprefix, property: 'og:url', content: 'https://entucasa.netlify.com'}],
     ['meta', {prefix: ogprefix, property: 'og:description', content: description}],
-    ['meta', {prefix: ogprefix, property: 'og:image', content: 'https://entucasa.netlify.com/img/logo.png'}],
-    ['meta', {name: 'apple-mobile-web-app-capable', content: 'yes'}],
-    ['meta', {name: 'apple-mobile-web-app-status-bar-style', content: 'black'}],
-    ['link', {rel: 'apple-touch-icon', href: `/img/favicon.png`}],
-    ['link', {rel: 'mask-icon', href: '/img/favicon.png', color: color}]
+    ['meta', {prefix: ogprefix, property: 'og:image', content: 'https://entucasa.netlify.com/img/logo.png'}]
   ],
 }
