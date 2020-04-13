@@ -11,17 +11,17 @@ We offer a diferent kind of services from a siplmy drop off for a cassual event,
 ## boards/tables/platters
 
 ### charcuterie board
-Our own selection of Iberico meats — jamon, chorizo, and salchichon (salami), all imported from Spain.		
-		
+Our own selection of Iberico meats — jamon, chorizo, and salchichon (salami), all imported from Spain.
+
 ### cheese board
-Our own selection of Iberico meats — jamon, chorizo, and salchichon (salami), all imported from Spain.		
-		
+Our own selection of Iberico meats — jamon, chorizo, and salchichon (salami), all imported from Spain.
+
 ### veggie board
-Our own selection of Iberico meats — jamon, chorizo, and salchichon (salami), all imported from Spain.		
-		
+Our own selection of Iberico meats — jamon, chorizo, and salchichon (salami), all imported from Spain.
+
 ### fruit board	
-Our own selection of Iberico meats — jamon, chorizo, and salchichon (salami), all imported from Spain.			Our own selection of Iberico meats — jamon, chorizo, and salchichon (salami), all imported from Spain.		
-					
+Our own selection of Iberico meats — jamon, chorizo, and salchichon (salami), all imported from Spain.Our own selection of Iberico meats — jamon, chorizo, and salchichon (salami), all imported from Spain.		
+
 
 ## Appetizers
 
@@ -42,28 +42,28 @@ Handmade croquetas, 2tasty4u
 
 
 ## Tapas
-Prawn, crab stick and orange brochette with salsa Rosa
-Boquerón* and avocado with garlic olive oli
-Serrano ham with quail egg
-Roasted red pepper and anchovy with garlic olive oil
-Salmorejo*  with serrano ham and boiled egg 
-Brie cheese with Iberico  salami 
-Manchego cheese with Iberico chorizo (24 months old cured)
-Olives and pickles cocktail
-Salmorejo*  with serrano ham and boiled egg 
-Goat cheese and caramelized onion
-Goat cheese and roasted peper
-Mushroom and garlic
-Spanish potato omelette with garlic mayo 
-Manchego cheese with black grape jam	Manchego cheese with black grape jam
-Valdeon (blue) cheese with honey and nuts
-Spanish pisto
+- Prawn, crab stick and orange brochette with salsa Rosa
+- Boquerón* and avocado with garlic olive oli
+- Serrano ham with quail egg
+- Roasted red pepper and anchovy with garlic olive oil
+- Salmorejo*  with serrano ham and boiled egg 
+- Brie cheese with Iberico  salami 
+- Manchego cheese with Iberico chorizo (24 months old cured)
+- Olives and pickles cocktail
+- Salmorejo*  with serrano ham and boiled egg 
+- Goat cheese and caramelized onion
+- Goat cheese and roasted peper
+- Mushroom and garlic
+- Spanish potato omelette with garlic mayo 
+- Manchego cheese with black grape jam	Manchego cheese with black grape jam
+- Valdeon (blue) cheese with honey and nuts
+- Spanish pisto
 
 
 ## Salads
 
 ### mediterranean salad
-Chef's selection of greens and vegetables with a Spanish vinaigrette dressing.
+es with a Spanish vinaigrette dressing.
 
 ### spanish prawn salad	
 An amazing fresh salad made with shrimp, avocado, oranges, homemade salsa rosa, on a bed of shredded lettuce. In Spain, salsa rosa is the classic, go-to sauce for seafood cocktails or salads.
@@ -132,25 +132,25 @@ cualquier cosa
 ## Mains
 
 ### Seafood Paella 
-A classic Spanish dining experience. Our seafood paella is made with Spanish Bomba rice and a chef’s selection of seafood.		
-	
-### Chicken Paella	Chicken Paella
-The chicken paella is perfect for meat lovers. Rice with chicken thighs and chicken wings perfectly cooked with Spanish sofrito, homemade chicken broth and green beans. We can also do pork upon request.		
-		
+A classic Spanish dining experience. Our seafood paella is made with Spanish Bomba rice and a chef’s selection of seafood.
+
+### Chicken Paella
+The chicken paella is perfect for meat lovers. Rice with chicken thighs and chicken wings perfectly cooked with Spanish sofrito, homemade chicken broth and green beans. We can also do pork upon request.
+
 ### Vegan Paella
-The perfect choice for vegetarians and vegans. Chef’s selection of vegetables, rice, homemade tomato sauce and vegetable broth, slowly-cooked on a traditional Spanish paella pan.		
-		
+The perfect choice for vegetarians and vegans. Chef’s selection of vegetables, rice, homemade tomato sauce and vegetable broth, slowly-cooked on a traditional Spanish paella pan.
+
 ### Red wine beef stew
-A tradicional grandma's stew that every family gets to enjoy in Spain. Cooked with red wine from La Rioja.		
-	
+A traditional grandma's stew that every family gets to enjoy in Spain. Cooked with red wine from La Rioja.
+
 ### lasagna
-beef and veggie		
-		
+beef and veggie
+
 ### mac and chee'zo
-dhswj ckibwefks dkjbsd skjbksd kjbak h j kj ljnnkbdjs kjhb kjh jmh skjhbkjf jbkmjs m kjbkjsnd;pajldj dkjnlsk c		
-		
-    
-## Dessert   
+dhswj ckibwefks dkjbsd skjbksd kjbak h j kj ljnnkbdjs kjhb kjh jmh skjhbkjf jbkmjs m kjbkjsnd;pajldj dkjnlsk c
+
+
+## Dessert
 
 ### churros
 con chocolate para hacer dip
@@ -159,15 +159,10 @@ con chocolate para hacer dip
 con chocolate para hacer dip
 
 ### cheese cake
-con chocolate para hacer dip    
-    
+con chocolate para hacer dip
+
 ### chocolate mouse
 con chocolate para hacer dip
 
 ### custom birthday cakes
 con chocolate para hacer dip
-    
-    
-    
-    
-    
