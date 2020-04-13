@@ -19,5 +19,9 @@ me estoy acordandno del blog, q no se nos olvide
 Al final de cada pagina molaria poner algo tipo diseñado por RAMBO NO? eso queda pro
 
 y tambien molaria si se ve el icono de face y del insta y q si pinchas te lleve ahi 
+Pues aqui otra foto molona con el logo no? o maybe de los dos ya veremos
+
+
+y habra q poner un poquito de blabla pero eso tengo q hablarlo con javi
 
 
