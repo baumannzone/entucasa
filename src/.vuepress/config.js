@@ -2,7 +2,6 @@ let ogprefix = 'og: http://ogp.me/ns#'
 let title = 'En Tu Casa Whistler'
 let description = 'En Tu Casa Whistler - Spanish Cooking - Catering - InHouse Cooking - 658812217'
 let color = '#f42525'
-let author = 'En Tu Casa Auth'
 
 module.exports = {
   title: 'En Tu Casa Whistler',
