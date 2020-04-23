@@ -1,6 +1,7 @@
 ---
 
 sidebar: false
+description: Hola esta es la description de la home
 
 ---
 
