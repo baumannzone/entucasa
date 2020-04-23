@@ -1,7 +1,7 @@
 ---
 
 sidebar: false
-title: Delivery Menu
+title: Whistler daily delivery menu
 
 ---
 
