@@ -1,6 +1,7 @@
 ---
 
 sidebar: false
+title: Our story
 
 ---
 
@@ -10,7 +11,7 @@ Aquí molaría una foto pepino con nuetro logo en grande. Alguna frase chula tip
 Si me dices la dimension de la todo puedo empezar a molestar a gente para q me haga estas cositas. 
 
 
-Podriamos decir tambien que hacemos repartos diarios en Whistler y eventosa lo largo se la Sea to Sky highway. 
+Podríamos decir también que hacemos repartos diarios en Whistler y eventosa lo largo se la Sea to Sky highway. 
 
 
 me estoy acordandno del blog, q no se nos olvide 
