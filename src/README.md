@@ -1,6 +1,7 @@
 ---
 
 sidebar: false
+description: Hola esta es la description de la home
 
 ---
 
@@ -14,7 +15,7 @@ sidebar: false
 
 A Spanish couple from Madrid who chose to make Whistler their home over 6 years ago.  With 15 years of experience in the restaurant business, Javier has decided for the first time to jump into the kitchen. Together, they bring their families’ recipes and their country’s gastronomic tradition to Whistler.
 
-<img :src="$withBase('/img/home/map.png')" alt="foo" >
+<!--<img :src="$withBase('/img/home/map.png')" alt="foo" >-->
 
 <figure style="text-align: center">
   <img :src="$withBase('/img/home/map.png')" alt="foo" >

@@ -2,6 +2,7 @@
 
 sidebar: false
 title: Our story
+description: Esto es lo que tiene que aparecer en google
 
 ---
 
