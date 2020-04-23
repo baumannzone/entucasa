@@ -1,7 +1,7 @@
 ---
 
 sidebar: true
-
+title: Spanish catering menu
 ---
 
 # Catering Menu
