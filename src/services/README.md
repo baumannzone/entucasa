@@ -1,6 +1,7 @@
 ---
 
 sidebar: false
+title: Food event designer
 
 ---
 
