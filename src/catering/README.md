@@ -2,7 +2,10 @@
 
 sidebar: true
 title: Spanish catering menu
+description: Spanish customizable menu that will fulfill your event necessities, from a small tasting menu to a large varied meal, we have you covered.
+
 ---
+![catering charcuterie board EnTuCasaWhistler](/img/EnTuCasa-Charcuterie-1.jpg)
 
 # Catering Menu
 We offer a diferent kind of services from a siplmy drop off for a cassual event, a creative grazing table or full dinner service, we have you covered. Check our services for more info.
