@@ -1,9 +1,13 @@
 ---
 
 sidebar: false
-title: Food event designer
+title: Food event designers
+description: Private or corporate, big or small, full event formal dinner seating or a simply drop off packed meal, we´ll make sure your event has everything you need. 
 
 ---
+
+![Cheese board-EnTuCasaWhistler](/img/EnTuCasa-Cheese.jpg)
+
 
 # SERVICES
 You can choose anything from our catering menu and think about what´s the best options that suits your necesities.
