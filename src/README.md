@@ -12,6 +12,11 @@ description: En Tu Casa- Spanish dining provides a Spanish catering service alon
 
 > SPANISH DINING DELIVERY
 
+<figure class="full-width-img">
+  <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/hero.jpg">
+  <figcaption>Some text.</figcaption>
+</figure>
+
 ![esto es el alt](/img/home/map.png)
 
 **En tu Casa** was created by Javier and Maria.

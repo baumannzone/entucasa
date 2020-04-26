@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+/*
+ * This technique may cause horizontal overflow, so stopping here.
+ */
+body {
+  overflow-x: hidden;
+}
+
+.full-width-img {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+
+  img {
+    max-width: 100%;
+  }
+
+  figure {
+    margin: 15px 0;
+  }
+
+  figcaption {
+    text-align: center;
+    color: #aaaaaa;
+  }
+}
+
+
