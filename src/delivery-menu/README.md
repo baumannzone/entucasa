@@ -5,8 +5,10 @@ title: Whistler daily delivery menu
 description: Authentic Spanish cuisine delivered to your door in Whistler. Tapas, paellas, charcuterie, bocadillos and much more
 
 ---
-
-![seafood paella EnTuCasaWhistler](/img/EnTuCasa-Paella.jpg)
+<figure class="full-width-img">
+  <img src="/img/EnTuCasa-Paella.jpg">
+  <figcaption>Some text.</figcaption>
+</figure>
 
 # Delivery Menu
 We deliver within Whistler, call us now and we´ll drop the meal off and come back the next day to pick if there is any retornable item.  Free delivery in orders over $50.
@@ -16,6 +18,8 @@ We deliver within Whistler, call us now and we´ll drop the meal off and come ba
 3. Bocadillos
 4. Main 
 5. Dessert
+
+![seafood paella EnTuCasaWhistler](/img/EnTuCasa-Paella.jpg)
 
 ## Appetizers
 
