@@ -10,7 +10,7 @@ module.exports = {
     lineNumbers: false
   },
   themeConfig: {
-    logo: '/img/logo.png',
+    logo: '/img/logos/Rebrand_etc11.jpg',
     docsDir: 'src',
     nav: [
       {text: 'Home', link: '/'},
@@ -98,7 +98,7 @@ module.exports = {
     ]
   ],
   head: [
-    ['link', {rel: 'icon', href: `/img/favicon.png`}],
+    ['link', {rel: 'icon', href: `/img/logos/Rebrand_etc7.jpg`}],
     ['meta', {name: 'theme-color', content: color}],
     ['meta', {prefix: ogprefix, property: 'og:locale', content: 'en_CA'}],
     ['meta', {prefix: ogprefix, property: 'og:title', content: title}],
@@ -106,6 +106,6 @@ module.exports = {
     ['meta', {prefix: ogprefix, property: 'og:type', content: 'website'}],
     ['meta', {prefix: ogprefix, property: 'og:url', content: 'https://entucasa.netlify.com'}],
     ['meta', {prefix: ogprefix, property: 'og:description', content: description}],
-    ['meta', {prefix: ogprefix, property: 'og:image', content: 'https://entucasa.netlify.com/img/logo.png'}]
+    ['meta', {prefix: ogprefix, property: 'og:image', content: 'https://entucasa.netlify.com/img/logos/Rebrand_etc11.jpg'}]
   ],
 }
