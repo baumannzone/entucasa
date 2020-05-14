@@ -8,24 +8,23 @@ description: Esto es lo que tiene que aparecer en google
 
 # About
 
-Aquí molaría una foto pepino con nuetro logo en grande. Alguna frase chula tipo con vino y paella la vida es bella (O ALGO ASI MUY ESPAÑOL) o ya pensare en algo mas.  
-Si me dices la dimension de la todo puedo empezar a molestar a gente para q me haga estas cositas. 
+# En Tu Casa · Home Cooking
+> SPANISH DINING DELIVERY
+
+**En tu Casa** was created by Javier and Maria.
+
+A Spanish couple from Madrid who chose to make Whistler their home over 7 years ago.  With 15 years of experience in the restaurant business, Javier has decided to jump into the kitchen. Together, they bring their families’ recipes and their country’s gastronomic tradition to Whistler.
+
+<!--<img :src="$withBase('/img/home/map.png')" alt="foo" >-->
+
+<figure style="text-align: center">
+  <img :src="$withBase('/img/home/map.png')" alt="foo" >
+  <figcaption>Caption Example</figcaption>
+</figure>
 
 
-Podríamos decir también que hacemos repartos diarios en Whistler y eventosa lo largo se la Sea to Sky highway. 
-
-
-me estoy acordandno del blog, q no se nos olvide 
 
 
 
-Al final de cada pagina molaria poner algo tipo diseñado por RAMBO NO? eso queda pro
+
 > Powered by **RambitoJS**
-
-y tambien molaria si se ve el icono de face y del insta y q si pinchas te lleve ahi 
-Pues aqui otra foto molona con el logo no? o maybe de los dos ya veremos
-
-
-y habra q poner un poquito de blabla pero eso tengo q hablarlo con javi
-
-
