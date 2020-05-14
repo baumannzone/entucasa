@@ -13,11 +13,11 @@ description: Authentic Spanish cuisine delivered to your door in Whistler. Tapas
 # Delivery Menu
 We deliver within Whistler, call us now and we´ll drop the meal off and come back the next day to pick if there is any retornable item.  Free delivery in orders over $50.
 
-1. Appetizers
-2. Salads
-3. Bocadillos
-4. Main 
-5. Dessert
+[Appetizers](#appetizers)  
+[Salads](#salads)  
+[Bocadillos](#bocadillos)  
+[Mains](#mains)  
+[Dessert](#dessert)  
 
 ![seafood paella EnTuCasaWhistler](/img/EnTuCasa-Paella.jpg)
 

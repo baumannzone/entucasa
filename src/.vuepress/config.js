@@ -1,6 +1,6 @@
 let ogprefix = 'og: http://ogp.me/ns#'
 let title = 'En Tu Casa Whistler'
-let description = 'En Tu Casa Whistler - Spanish Cooking - Catering - InHouse Cooking - 658812217'
+let description = 'En Tu Casa Whistler - Spanish Cooking - Catering - InHouse Cooking - 6043888086'
 let color = '#f42525'
 
 module.exports = {
@@ -10,7 +10,7 @@ module.exports = {
     lineNumbers: false
   },
   themeConfig: {
-    logo: '/img/logos/Rebrand_etc11.jpg',
+    logo: '/img/logos/Rebrand_etc11_2.png',
     docsDir: 'src',
     nav: [
       {text: 'Home', link: '/'},
@@ -98,7 +98,7 @@ module.exports = {
     ]
   ],
   head: [
-    ['link', {rel: 'icon', href: `/img/logos/Rebrand_etc7.jpg`}],
+    ['link', {rel: 'icon', href: `/img/logos/favicon.png`}],
     ['meta', {name: 'theme-color', content: color}],
     ['meta', {prefix: ogprefix, property: 'og:locale', content: 'en_CA'}],
     ['meta', {prefix: ogprefix, property: 'og:title', content: title}],
