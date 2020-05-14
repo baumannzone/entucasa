@@ -5,19 +5,30 @@ sidebar: false
 ---
 
 
-# la pagina de BOCADILLOS 🤩
+# BOCADILLOS 
 
+## Bocadillos
 
+### serrano ham
+serrano ham on baguette with a touch of extra virgin olive oil. The classic Spanish sandwich. Delightfully simple.
 
-✅
+### chorizo
+Slices of Ibérico chorizo sausage with Manchego cheese and a touch of extra virgin olive oil on baguette.
 
-## Salads
+### salchichon
+Slices of Ibérico chorizo sausage with Manchego cheese and a touch of extra virgin olive oil on baguette.
 
-### mediterranean salad
-Chef's selection of greens and vegetables with a Spanish vinaigrette dressing.
+### pork loin baguette
+Spanish style "lomo con queso" bocadillo. Famous all around the country.
 
-### spanish prawn salad	
-An amazing fresh salad made with shrimp, avocado, oranges, homemade salsa rosa, on a bed of shredded lettuce. In Spain, salsa rosa is the classic, go-to sauce for seafood cocktails or salads.
+### pepito ternera
+blablabla balbalaba
 
-### Avocado tomato tartar
-Fresh sliced avocados and tomatoes mixed with a home made mustard dressing.
+### sandwich mixto
+A clasic ham n cheese sandwich made with manchego cheese.
+
+### Grilled chorizo
+Grilled Iberico chorizod
+
+### grilled mushroom cheese
+Puede estar bien no
