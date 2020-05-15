@@ -10,7 +10,7 @@ module.exports = {
     lineNumbers: false
   },
   themeConfig: {
-    logo: '/img/NavBar/entucasa-logo.png',
+    logo: '/img/nav-bar/entucasa-logo.png',
     docsDir: 'src',
     nav: [
       {text: 'HOME', link: '/'},
@@ -112,6 +112,7 @@ module.exports = {
     ['meta', {prefix: ogprefix, property: 'og:type', content: 'website'}],
     ['meta', {prefix: ogprefix, property: 'og:url', content: 'https://entucasa.netlify.com'}],
     ['meta', {prefix: ogprefix, property: 'og:description', content: description}],
-    ['meta', {prefix: ogprefix, property: 'og:image', content: 'https://entucasa.netlify.com/img/logos/Rebrand_etc11.jpg'}]
+    ['meta', {prefix: ogprefix, property: 'og:image', content: 'https://entucasa.netlify.com/img/meta-tags/entucasa-logo-preview.png'}]
+    // ['meta', {prefix: ogprefix, property: 'og:image', content: 'https://entucasa.netlify.com/img/logos/Rebrand_etc11.jpg'}]
   ],
 }
