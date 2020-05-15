@@ -1,11 +1,11 @@
 let ogprefix = 'og: http://ogp.me/ns#'
 let title = 'En Tu Casa Whistler'
-let description = 'En Tu Casa Whistler - Spanish Cooking - Whistler delivery - Catering - 6043888086
+let description = 'En Tu Casa Whistler - Spanish Cooking - Whistler delivery - Catering - 6043888086'
 let color = '#f42525'
 
 module.exports = {
   title: 'En Tu Casa Whistler',
-  description: 'Spanish Cooking', 
+  description: 'Spanish Cooking',
   markdown: {
     lineNumbers: false
   },
@@ -21,15 +21,14 @@ module.exports = {
       {text: 'ABOUT', link: '/about/'}
     ],
     sidebar: [
-      ['/catering/boards_tables_platters/', 'BOARDS/TABLES/PLATTERS'], 
-      ['/catering/appetizers/', 'APPETIZERS'], 
-      ['/catering/tapas/', 'TAPAS'], 
+      ['/catering/boards_tables_platters/', 'BOARDS/TABLES/PLATTERS'],
+      ['/catering/appetizers/', 'APPETIZERS'],
+      ['/catering/tapas/', 'TAPAS'],
       ['/catering/salads/', 'SALADS'],
-      ['/catering/bocadillos/', 'BOCADILLOS'], 
-      ['/catering/sandwiches/', 'SANDWICHES'], 
-      ['/catering/mains/', 'MAINS'], 
-      ['/catering/dessert/', 'DESSERTS'], 
-    
+      ['/catering/bocadillos/', 'BOCADILLOS'],
+      ['/catering/sandwiches/', 'SANDWICHES'],
+      ['/catering/mains/', 'MAINS'],
+      ['/catering/desserts/', 'DESSERTS'],
     ],
     nextLinks: true,
     prevLinks: true,
