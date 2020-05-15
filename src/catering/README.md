@@ -16,10 +16,10 @@ We offer a diferent kind of services from a siplmy drop off for a cassual event,
 [BOARDS/TABLES/PLATTERS](#boards/tables/platters)  
 [APPETIZERS](#appetizers)  
 [TAPAS](#tapas)  
-[SALADS](#salads)  
-[BOCADILLOS](#dessert) 
+[SALADS](#salads)    
+[BOCADILLOS](#dessert)  
 [SANDWICHES](#sandwiches)  
-[MAINS](#mains) 
+[MAINS](#mains)  
 [DESSERTS](#desserts)  
 
 
