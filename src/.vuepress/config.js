@@ -1,11 +1,11 @@
 let ogprefix = 'og: http://ogp.me/ns#'
 let title = 'En Tu Casa Whistler'
-let description = 'En Tu Casa Whistler - Spanish Cooking - Catering - InHouse Cooking - 6043888086'
+let description = 'En Tu Casa Whistler - Spanish Cooking - Whistler delivery - Catering - 6043888086
 let color = '#f42525'
 
 module.exports = {
   title: 'En Tu Casa Whistler',
-  description: 'Home Cooking',
+  description: 'Spanish Cooking', 
   markdown: {
     lineNumbers: false
   },
@@ -21,8 +21,15 @@ module.exports = {
       {text: 'About', link: '/about/'}
     ],
     sidebar: [
-      ['/catering/salads/', 'Salads'],
-      ['/catering/bocadillos/', 'Bocadillos'],
+      ['/catering/Boards_tables_platters/', 'BOARD/TABLES/PLATTERS'], 
+      ['/catering/Appetizers/','APPETIZERS'], 
+      ['/catering/Tapas/', 'TAPAS'], 
+      ['/catering/salads/', 'SALADS'],
+      ['/catering/bocadillos/', 'BOCADILLOS'], 
+      ['/catering/Sandwiches/', 'SANDWICHES'], 
+      ['/catering/Mains/', 'MAINS'], 
+      ['/catering/Dessert/','DESSERTS'], 
+    
     ],
     nextLinks: true,
     prevLinks: true,
