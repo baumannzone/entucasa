@@ -21,14 +21,14 @@ module.exports = {
       {text: 'ABOUT', link: '/about/'}
     ],
     sidebar: [
-      ['/catering/Boards_tables_platters/', 'BOARDS/TABLES/PLATTERS'], 
-      ['/catering/Appetizers/', 'APPETIZERS'], 
-      ['/catering/Tapas/', 'TAPAS'], 
+      ['/catering/boards_tables_platters/', 'BOARDS/TABLES/PLATTERS'], 
+      ['/catering/appetizers/', 'APPETIZERS'], 
+      ['/catering/tapas/', 'TAPAS'], 
       ['/catering/salads/', 'SALADS'],
       ['/catering/bocadillos/', 'BOCADILLOS'], 
-      ['/catering/Sandwiches/', 'SANDWICHES'], 
-      ['/catering/Mains/', 'MAINS'], 
-      ['/catering/Dessert/', 'DESSERTS'], 
+      ['/catering/sandwiches/', 'SANDWICHES'], 
+      ['/catering/mains/', 'MAINS'], 
+      ['/catering/dessert/', 'DESSERTS'], 
     
     ],
     nextLinks: true,
