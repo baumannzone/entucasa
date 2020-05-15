@@ -22,13 +22,13 @@ module.exports = {
     ],
     sidebar: [
       ['/catering/Boards_tables_platters/', 'BOARD/TABLES/PLATTERS'], 
-      ['/catering/Appetizers/','APPETIZERS'], 
+      ['/catering/Appetizers/', 'APPETIZERS'], 
       ['/catering/Tapas/', 'TAPAS'], 
       ['/catering/salads/', 'SALADS'],
       ['/catering/bocadillos/', 'BOCADILLOS'], 
       ['/catering/Sandwiches/', 'SANDWICHES'], 
       ['/catering/Mains/', 'MAINS'], 
-      ['/catering/Dessert/','DESSERTS'], 
+      ['/catering/Dessert/', 'DESSERTS'], 
     
     ],
     nextLinks: true,
