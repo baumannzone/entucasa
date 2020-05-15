@@ -10,7 +10,7 @@ module.exports = {
     lineNumbers: false
   },
   themeConfig: {
-    logo: '/img/logos/Rebrand_etc11_2.png',
+    logo: '/img/NavBar/entucasa-logo.png',
     docsDir: 'src',
     nav: [
       {text: 'HOME', link: '/'},
