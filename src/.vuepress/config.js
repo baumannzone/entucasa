@@ -13,15 +13,15 @@ module.exports = {
     logo: '/img/logos/Rebrand_etc11_2.png',
     docsDir: 'src',
     nav: [
-      {text: 'Home', link: '/'},
-      {text: 'Delivery Menu', link: '/delivery-menu/'},
-      {text: 'Catering', link: '/catering/'},
-      {text: 'Services', link: '/services/'},
-      {text: 'Contact', link: '/contact/'},
-      {text: 'About', link: '/about/'}
+      {text: 'HOME', link: '/'},
+      {text: 'WHISTLER DELIVERY', link: '/delivery-menu/'},
+      {text: 'CATERING MENU', link: '/catering/'},
+      {text: 'SERVICES', link: '/services/'},
+      {text: 'CONTACT', link: '/contact/'},
+      {text: 'ABOUT', link: '/about/'}
     ],
     sidebar: [
-      ['/catering/Boards_tables_platters/', 'BOARD/TABLES/PLATTERS'], 
+      ['/catering/Boards_tables_platters/', 'BOARDS/TABLES/PLATTERS'], 
       ['/catering/Appetizers/', 'APPETIZERS'], 
       ['/catering/Tapas/', 'TAPAS'], 
       ['/catering/salads/', 'SALADS'],
