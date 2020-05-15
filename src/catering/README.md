@@ -13,6 +13,15 @@ We offer a diferent kind of services from a siplmy drop off for a cassual event,
   <figcaption>Some text.</figcaption>
 </figure>
 
+[BOARDS/TABLES/PLATTERS](#boards/tables/platters)  
+[APPETIZERS](#appetizers)  
+[TAPAS](#tapas)  
+[SALADS](#salads)  
+[BOCADILLOS](#dessert) 
+[SANDWICHES](#sandwiches)  
+[MAINS](#mains) 
+[DESSERTS](#desserts)  
+
 
 ## boards/tables/platters
 
