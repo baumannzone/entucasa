@@ -23,89 +23,68 @@ We deliver within Whistler, call us now and get your order delivered right to yo
 
 ## APPETIZERS
 
-### Bravas
-> 9.99  
-
+### Bravas  
 The clasic Spanish taps dish made with diced potatoes with a spicy Salsa brava.
 
 ### Spanish tortilla
-> 9.99  
+Another clasic of the Spanish cuisine. Spanish omelette filled with pan-fried potatoes and onion.  
 
-Another clasic of the Spanish cuisine. Spanish omelette filled with pan-fried potatoes and onion.
-
-### Stuffed eggs
-> 9.99
-
+### Stuffed eggs  
 Eggs stuffed with tuna and piquillo peppers topped with home made mayo
 
-### Croquettes
-> 9.99
-
+### Croquettes  
 A chefs selection of flavours of this amazing bites made with bechamel and airfrier
 
 ### Charcuterie and cheese board
-> 9.99
-
 Another chefs selection of high quality Spanish meats and cheeses.
 
 
 ## SALADS
 
 ### Spinach and greens  
-> 9.99  
-
 A mix of fresh greens with fresh mushrooms, carrot and apple dressed with a fig venigrette.
 
 ### Mediterranean 
-> 9.99  
-
 A mix of fresh greens topped with onion, carrot, boiled egg with an extra virgin olive oil venigrette.
 
 
 ## BOCADILLOS
 
 ### Meat ball sub
-> 9.99  
-
 One of the classic Americans with a Spanish touch. Recipe inspired by Martin Berasatagui.
 
-### Serrano sub
-> 9.99  
-
+### Serrano sub  
 A MUST. Every restaurant across Spain serves this delicios and simple bocadillo. Just some fresh organic shred tomato with Serrano ham and a touch of extra virgin olive oil.
 
 ### Tortilla sub
-> 9.99
 Delicios bocadillo served wtih piquillo pepper and garlic mayo. 
 
 
 ## MAINS
 
 ### Meat ball pasta
-> 9.90  
+
 A different aproach to meatballs made with a carrot pure and white wine inspired by Martin Berasategui. Served with linguine.
 
 ### Chicken parm
-> 9.90
+
 Classic italian dish prepared with tomato sauce, mozzarella and parmesan cheese. Served on a linguinebead.
 
 ### Seafood pasta
-> 9.90
+
 Cooming soon 
 
 ### Meat balls 
-> 9.90
+
 A different aproach to meatballs made with a carrot pure and white wine inspired by Martin Berasategui. Served with Spanish style fries.
 
 
 ## DESSERTS
 
 ### Cheesecake
-> 9.90
 blabalbalabalba
 
 ### Serrano melon
-> 6.00
 comunmente conocido
 
 
