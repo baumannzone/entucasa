@@ -49,8 +49,7 @@ Another chefs selection of high quality Spanish meats and cheeses.
 ## SALADS
 
 ### Spinach and greens 
-> 9.99
-A mix of fresh greens with fresh mushrooms, carrot and apple dressed with a fig venigrette.
+A mix of fresh greens with fresh mushrooms, carrot and apple dressed with a fig venigrette. > 9.99
 
 ### Mediterranean 
 > 9.99
