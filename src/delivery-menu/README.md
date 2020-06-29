@@ -19,7 +19,7 @@ We deliver within Whistler, call us now and get your order delivered right to yo
 [Dessert](#dessert)  
 
 
-## Appetizers
+## APPETIZERS
 
 ### Bravas
 > 9.99
@@ -42,7 +42,7 @@ A chefs selection of flavours of this amazing bites made with bechamel and airfr
 Another chefs selection of high quality Spanish meats and cheeses.
 
 
-## Salads
+## SALADS
 
 ### Spinach and greens 
 > 9.99
@@ -53,7 +53,7 @@ A mix of fresh greens with fresh mushrooms, carrot and apple dressed with a fig 
 A mix of fresh greens topped with onion, carrot, boiled egg with an extra virgin olive oil venigrette.
 
 
-## Bocadillos
+## BOCADILLOS
 
 ### Meat ball sub
 > 9.99
@@ -68,11 +68,10 @@ A MUST. Every restaurant across Spain serves this delicios and simple bocadillo.
 Delicios bocadillo served wtih piquillo pepper and garlic mayo. 
 
 
-## Mains
+## MAINS
 
 ### Meat ball pasta
-> 9.90
-A different aproach to meatballs made with a carrot pure and white wine inspired by Martin Berasategui. Served with linguine.
+> 9.90  A different aproach to meatballs made with a carrot pure and white wine inspired by Martin Berasategui. Served with linguine.
 
 ### Chicken parm
 > 9.90
@@ -87,7 +86,7 @@ Cooming soon
 A different aproach to meatballs made with a carrot pure and white wine inspired by Martin Berasategui. Served with Spanish style fries.
 
 
-## Dessserts
+## DESSERTS
 
 ### Cheesecake
 > 9.90
