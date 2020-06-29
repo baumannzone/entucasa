@@ -35,21 +35,25 @@ Another clasic of the Spanish cuisine. Spanish omelette filled with pan-fried po
 
 ### Stuffed eggs
 > 9.99
+
 Eggs stuffed with tuna and piquillo peppers topped with home made mayo
 
 ### Croquettes
 > 9.99
+
 A chefs selection of flavours of this amazing bites made with bechamel and airfrier
 
 ### Charcuterie and cheese board
 > 9.99
+
 Another chefs selection of high quality Spanish meats and cheeses.
 
 
 ## SALADS
 
-### Spinach and greens 
-A mix of fresh greens with fresh mushrooms, carrot and apple dressed with a fig venigrette. > 9.99
+### Spinach and greens  
+> 9.99
+A mix of fresh greens with fresh mushrooms, carrot and apple dressed with a fig venigrette.
 
 ### Mediterranean 
 > 9.99
