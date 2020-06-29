@@ -11,7 +11,7 @@ description: Authentic Mediterranean cuisine delivered to your door in Whistler.
 </figure>
 
 # Delivery Menu
-We deliver within Whistler, call us now and get your order delivered right to your door. 
+We deliver within Whistler, call us now and get your order delivered right to your door.   
 [Appetizers](#appetizers)  
 [Salads](#salads)  
 [Bocadillos](#bocadillos)  
