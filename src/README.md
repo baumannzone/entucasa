@@ -2,7 +2,7 @@
 
 sidebar: false
 title: En Tu Casa Whistler. Spanish dining experience delivered
-description: En Tu Casa- Spanish dining provides a Spanish catering service along the Sea to Sky corridor and a daily delivery services within Whistler.
+description: En Tu Casa- Spanish dining, provides a Spanish catering service along the Sea to Sky corridor and a daily delivery services within Whistler.
 
 ---
 <figure class="full-width-img">
