@@ -11,7 +11,9 @@ description: Authentic Mediterranean cuisine delivered to your door in Whistler.
 </figure>
 
 # Delivery Menu
-We deliver within Whistler, call us now and get your order delivered right to your door.   
+
+We deliver within Whistler, call us now and get your order delivered right to your door.  
+
 [Appetizers](#appetizers)  
 [Salads](#salads)  
 [Bocadillos](#bocadillos)  
@@ -22,7 +24,7 @@ We deliver within Whistler, call us now and get your order delivered right to yo
 ## APPETIZERS
 
 ### Bravas
-> 9.99
+> 9.99  
 The clasic Spanish taps dish made with diced potatoes with a spicy Salsa brava.
 
 ### Spanish tortilla
