@@ -25,10 +25,12 @@ We deliver within Whistler, call us now and get your order delivered right to yo
 
 ### Bravas
 > 9.99  
+
 The clasic Spanish taps dish made with diced potatoes with a spicy Salsa brava.
 
 ### Spanish tortilla
-> 9.99
+> 9.99  
+
 Another clasic of the Spanish cuisine. Spanish omelette filled with pan-fried potatoes and onion.
 
 ### Stuffed eggs
