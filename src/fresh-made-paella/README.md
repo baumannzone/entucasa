@@ -14,7 +14,7 @@ description: The authentic Spanish paella made in Whister
 
 ## FRESH MADE PAELLA 
 
-THE HOUSE SPECIALTY. Call us now to book your paella in advance and get it delivered wherever your are. Perfect meal for any speciall ocasion.
+THE HOUSE SPECIALTY. Call us now to book your paella in advance and get it delivered wherever your are in a real paella pan that we will pick up the day after so you can enjoy the tradicional meal on its tradicional way. 
 
 ### Seafood paella 
 > 22.00
