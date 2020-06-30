@@ -45,10 +45,11 @@ A mix of fresh greens topped with onion, carrots, and boiled egg, dressed with a
 ## MAINS
 
 ### Linguine in carrot and white wine sauce
-> Add meatballs for only $2.50
+>Add meatballs for only $2.50
+
 A different take on pasta sauce: made with onions, carrot puree and white wine. Inspired by Martin Berasategui.
 ### Linguine in tomato sauce
-> Add chicken parm for only $2.50
+>Add chicken parm for only $2.50
 Classic Italian dish prepared with tomato sauce, mozzarella and parmesan cheese.
 ### Meatballs
 Just like our meatball linguine in carrot and white wine sauce, served on Spanish-style fries.
