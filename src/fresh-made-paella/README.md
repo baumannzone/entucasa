@@ -28,7 +28,7 @@ A classic Spanish dining experience. Our seafood paella is made with home made s
 The original recipe of all paellas. Made with home made broth, pork ribs, chicken, green beans and bomba rice.
 
 
-### Vegan Paella
+### Vegan paella
 > 18.00 per person
 
 The perfect choice for vegetarians and vegans. Chef’s selection of vegetables, rice, homemade tomato sauce and vegetable home made broth.
