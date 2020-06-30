@@ -1,8 +1,8 @@
 ---
 
 sidebar: false
-title: Whistler daily delivery menu
-description: Authentic Mediterranean cuisine delivered to your door in Whistler.
+title: Whistler daily delivery menu. En Tu Casa Express
+description: Mediterranean cuisine delivered to your door in Whistler.
 
 ---
 <figure class="full-width-img">
@@ -13,6 +13,7 @@ description: Authentic Mediterranean cuisine delivered to your door in Whistler.
 # Delivery Menu — All Food Items $9.90
 
 We deliver within Whistler. Call us now at 604-388-8086 and get your order delivered right to your door.  
+>Delivery charge $5. Minimun order $20.
 
 [Appetizers](#appetizers)  
 [Salads](#salads)   
@@ -28,8 +29,9 @@ The classic Spanish tapas dish made with Spanish-style fries and spicy Salsa Bra
 Another classic Spanish dish. Spanish omelette filled with pan-fried potatoes and onion.  
 ### Stuffed eggs  
 Eggs stuffed with tuna and piquillo peppers topped with home made mayo.
-### Croquettes  
-A chef's selection of these amazing bites made with bechamel sauce.
+### Beet gazpacho
+>only $6!
+Cold refreshing tomato base soup made with raw veggies from BC topped with cantaloupe melon. The perfect summer drik.
 ### Charcuterie and cheese board
 Another chefs selection of high quality Spanish meats and cheeses.
 
@@ -67,5 +69,5 @@ Delicious potato omelette bocadillo served with piquillo pepper and home made ga
 ### Cheesecake
 A Spanish take on cheesecake. Made with ricotta and cream, served with organic strawberry jam.
 ### Serrano melon brochettes
-Spanish Serrano ham and melon skewers. The perfect summer bite.
+Spanish Serrano ham,melon and graves skewers. The perfect summer bite.
 
