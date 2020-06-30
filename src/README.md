@@ -7,20 +7,12 @@ description: En Tu Casa- Spanish dining, provides a Spanish catering service alo
 ---
 <figure class="full-width-img">
   <img src="/img/EnTuCasa-Charcuterie-3.jpg">
-  <figcaption>Some text.</figcaption>
+  <figcaption>En Tu Casa charcuterie board</figcaption>
 </figure>
 
 # En Tu Casa EXPRESS
 > MEDITERRANEAN DINING DELIVERY
 
-After being able to share our Spanish gastronomy for over a year with our  Whistler community we have decided to go ahead jump forward and bring another piece of our culinary culture with a new menu inspired in the Mediterranean cuisine.  This is how Entucasa Express begins, bringing a 
-quality menu and affordable services for our community.  We`d love you to join us on our new journey 
+After being able to share our Spanish cuisine for over a year with the Whistler community, we have decided to make the leap forward and bring another piece of our culinary culture with a new Mediterranean-inspired menu. This is where Entucasa Express begins — a delicious menu with affordable prices. Made with the Whistler community in mind. We'd love for you to join us on this new journey.
 
 
-
-<!--<img :src="$withBase('/img/home/map.png')" alt="foo" >-->
-
-<figure style="text-align: center">
-  <img :src="$withBase('/img/home/map.png')" alt="foo" >
-  <figcaption>Caption Example</figcaption>
-</figure>
