@@ -15,10 +15,10 @@ description: The authentic Spanish paella made in Whister
 ## FRESH MADE PAELLA 
 
 OUR HOUSE SPECIALTY. Traditional Spanish paella made fresh for every order. Delivered and served on a traditional paella pan.
-
+> Minimum order of 4 people. Please provide us with 24 hours notice. We will pick up the paella pan the day after.
 
 ### Seafood paella 
-> 22.00 per person
+> 20.00 per person
 
 A classic Spanish dining experience. Our seafood paella is made with Spanish Bomba rice and a chef’s selection of seafood.
 
@@ -38,4 +38,4 @@ The perfect choice for vegetarians and vegans. Chef’s selection of vegetables,
 
 
 
-> Minimum order of 4 people. Please provide us with 24 hours notice. We will pick up the paella pan the day after.
+
