@@ -30,7 +30,7 @@ Another classic Spanish dish. Spanish omelette filled with pan-fried potatoes an
 ### Stuffed eggs  
 Eggs stuffed with tuna and piquillo peppers topped with home made mayo.
 ### Beet gazpacho
->only $6!
+>only $6.0!
 
 Cold refreshing tomato base soup made with raw veggies from BC topped with cantaloupe melon. The perfect summer drik.
 ### Charcuterie and cheese board
