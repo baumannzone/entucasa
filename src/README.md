@@ -17,5 +17,5 @@ After being able to share our Spanish cuisine for over a year with the Whistler 
 
 <figure class="full-width-img">
   <img src="/img/nuevas/home-entucasa-express.jpg">
-  <figcaption>En Tu Casa charcuterie board</figcaption>
+  <figcaption>En Tu Casa Express</figcaption>
 </figure>
