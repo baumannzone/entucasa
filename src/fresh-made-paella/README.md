@@ -14,23 +14,25 @@ description: The authentic Spanish paella made in Whister
 
 ## FRESH MADE PAELLA 
 
-THE HOUSE SPECIALTY. Call us now to book your paella in advance and get it delivered wherever your are in a real paella pan that we will pick up the day after so you can enjoy the tradicional meal on its tradicional way. 
+OUR HOUSE SPECIALTY. Traditional Spanish paella made fresh for every order. Delivered and served on a traditional paella pan.
+
 
 ### Seafood paella 
-> 22.00
+> 22.00 per person
 
 A classic Spanish dining experience. Our seafood paella is made with Spanish Bomba rice and a chef’s selection of seafood.
 
 ### Valenciana paella 
-> 20.00
+> 20.00 per person
 
-The most popular paella in Spain. Rice with chicken thighs and chicken wings perfectly cooked with Spanish sofrito, homemade chicken broth and green beans. We can also do pork upon request.
+The original recipe of all paellas. Made with pork ribs, chicken, green beans and bomba rice.
+
 
 ### Vegan Paella
-> 18.00
+> 18.00 per person
 
-The perfect choice for vegetarians and vegans. Chef’s selection of vegetables, rice, homemade tomato sauce and vegetable broth, slowly-cooked on a traditional Spanish paella pan.
-
-
+The perfect choice for vegetarians and vegans. Chef’s selection of vegetables, rice, homemade tomato sauce and vegetable broth.
 
 
+
+> Minimum order of 4 people. Please provide us with 24 hours notice. We will pick up the paella pan the day after.
