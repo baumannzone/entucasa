@@ -5,7 +5,7 @@ sidebar: false
 ---
 
 <figure class="full-width-img">
-  <img src="/img/nuevas/contact.png" alt="contact-us">
+  <img src="/img/nuevas/contact.jpg" alt="contact-us">
   <figcaption>Get in touch with us</figcaption>
 </figure>
 

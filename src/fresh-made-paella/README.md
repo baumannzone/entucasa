@@ -6,7 +6,7 @@ description: The authentic Spanish paella made in Whister
 
 ---
 <figure class="full-width-img">
-  <img src="/img/nuevas/entucasa-fresh-made-paella.png">
+  <img src="/img/nuevas/entucasa-fresh-made-paella.jpg" alt="entucasa - fresh made paella">
   <figcaption>Fresh made seafood paella</figcaption>
 </figure>
 
