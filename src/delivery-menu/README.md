@@ -6,7 +6,7 @@ description: Mediterranean cuisine delivered to your door in Whistler.
 
 ---
 <figure class="full-width-img">
-  <img src="/img/nuevas/entucasa-express.jpg">
+  <img src="/img/nuevas/entucasa-express.jpg" alt="En Tu Casa- Express-Mediterranean food delivery">
   <figcaption>En Tu Casa Express.</figcaption>
 </figure>
 

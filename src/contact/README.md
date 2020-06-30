@@ -5,7 +5,7 @@ sidebar: false
 ---
 
 <figure class="full-width-img">
-  <img src="/img/nuevas/contact.jpg" alt="contact-us">
+  <img src="/img/nuevas/contact.jpg" alt="En Tu Casa-Charcuterie board-Food delivery">
   <figcaption>Get in touch with us</figcaption>
 </figure>
 
