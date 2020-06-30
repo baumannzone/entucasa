@@ -50,6 +50,7 @@ A mix of fresh greens topped with onion, carrots, and boiled egg, dressed with a
 A different take on pasta sauce: made with onions, carrot puree and white wine. Inspired by Martin Berasategui.
 ### Linguine in tomato sauce
 >Add chicken parm for only $2.50
+
 Classic Italian dish prepared with tomato sauce, mozzarella and parmesan cheese.
 ### Meatballs
 Just like our meatball linguine in carrot and white wine sauce, served on Spanish-style fries.
@@ -64,8 +65,7 @@ Delicious potato omelette bocadillo served with piquillo pepper and home made ga
 ## DESSERTS
 
 ### Cheesecake
-blabalbalabalba
-### Serrano melon
-comunmente conocido
-
+A Spanish take on cheesecake. Made with ricotta and cream, served with organic strawberry jam.
+### Serrano melon brochettes
+Spanish Serrano ham and melon skewers. The perfect summer bite.
 
