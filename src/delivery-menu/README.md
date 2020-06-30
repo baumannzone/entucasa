@@ -15,8 +15,7 @@ description: Authentic Mediterranean cuisine delivered to your door in Whistler.
 We deliver within Whistler. Call us now at 604-388-8086 and get your order delivered right to your door.  
 
 [Appetizers](#appetizers)  
-[Salads](#salads)  
-[Bocadillos](#bocadillos)  
+[Salads](#salads)   
 [Mains](#mains)  
 [Dessert](#dessert)  
 
