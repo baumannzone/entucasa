@@ -14,9 +14,7 @@ module.exports = {
     docsDir: 'src',
     nav: [
       {text: 'HOME', link: '/'},
-      {text: 'WHISTLER DELIVERY', link: '/delivery-menu/'},
-      {text: 'CATERING MENU', link: '/catering/'},
-      {text: 'SERVICES', link: '/services/'},
+      {text: 'EN TU CASA EXTRESS', link: '/delivery-menu/'},
       {text: 'CONTACT', link: '/contact/'},
       {text: 'ABOUT', link: '/about/'}
     ],
