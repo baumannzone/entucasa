@@ -6,8 +6,8 @@ description: The authentic Spanish paella made in Whister
 
 ---
 <figure class="full-width-img">
-  <img src="/img/EnTuCasa-Paella.jpg">
-  <figcaption>Some text.</figcaption>
+  <img src="/img/nuevas/entucasa-fresh-made-paella.png">
+  <figcaption>Fresh made seafood paella</figcaption>
 </figure>
 
 
@@ -20,18 +20,18 @@ OUR HOUSE SPECIALTY. Traditional Spanish paella made fresh for every order. Deli
 ### Seafood paella 
 > 20.00 per person
 
-A classic Spanish dining experience. Our seafood paella is made with Spanish Bomba rice and a chef’s selection of seafood.
+A classic Spanish dining experience. Our seafood paella is made with home made seafood broth, Spanish Bomba rice and a chef’s selection of seafood.
 
 ### Valenciana paella 
 > 20.00 per person
 
-The original recipe of all paellas. Made with pork ribs, chicken, green beans and bomba rice.
+The original recipe of all paellas. Made with home made broth, pork ribs, chicken, green beans and bomba rice.
 
 
 ### Vegan Paella
 > 18.00 per person
 
-The perfect choice for vegetarians and vegans. Chef’s selection of vegetables, rice, homemade tomato sauce and vegetable broth.
+The perfect choice for vegetarians and vegans. Chef’s selection of vegetables, rice, homemade tomato sauce and vegetable home made broth.
 
 
 
