@@ -15,6 +15,7 @@ module.exports = {
     nav: [
       {text: 'HOME', link: '/'},
       {text: 'EN TU CASA EXTRESS', link: '/delivery-menu/'},
+      {text: 'FRESH MADE PAELAA', link: '/fresh-made-paella/'},
       {text: 'CONTACT', link: '/contact/'},
       {text: 'ABOUT', link: '/about/'}
     ],
