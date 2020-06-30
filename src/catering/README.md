@@ -8,6 +8,9 @@ description: Spanish customizable menu that will fulfill your event necessities,
 # Catering Menu
 We offer a diferent kind of services from a siplmy drop off for a cassual event, a creative grazing table or full dinner service, we have you covered. Check our services for more info.
 
+
+<Products page-name="CATERING"/>
+
 <figure class="full-width-img">
   <img src="/img/EnTuCasa-Charcuterie-1.jpg">
   <figcaption>Some text.</figcaption>
