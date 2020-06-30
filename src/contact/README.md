@@ -20,3 +20,7 @@ Get in touch, tell us about your upcoming event and we will make it unforgettabl
 #### HOUR OF OPERATION:  
 Tuesday - Sunday, from `1:00pm` to `9:00pm`
 
+
+### We are social!
+- [https://www.facebook.com/entucasawhisler](https://www.facebook.com/entucasawhisler)
+- [https://www.instagram.com/entucasawhistler](https://www.instagram.com/entucasawhistler)
