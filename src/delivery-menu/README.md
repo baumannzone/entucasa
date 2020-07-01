@@ -28,13 +28,13 @@ We deliver within Whistler. Call us now at 604-388-8086 and get your order deliv
 The classic Spanish tapas dish made with Spanish-style fries and spicy Salsa Brava.
 
 ### Spanish tortilla
-Another classic Spanish dish. Spanish omelette filled with pan-fried potatoes and onion.  
+Spanish omelette filled with pan-fried potatoes and onion.  
 
 ### Stuffed eggs  
 Eggs stuffed with tuna and piquillo peppers topped with home made mayo.
 
 ### Beet gazpacho 
-> only $6.0! <Badge text="Awesome" type="success" vertical="top"/> <Badge text="Best Quality" type="warning" vertical="top"/>    
+> ONLY $6.0! <Badge text="Awesome" type="success" vertical="top"/> <Badge text="Best Quality" type="warning" vertical="top"/>    
 
 Cold refreshing tomato base soup made with raw veggies from BC topped with cantaloupe melon. The perfect summer drink.
 
@@ -53,12 +53,11 @@ A mix of fresh greens topped with onion, carrots, and boiled egg, dressed with a
 ## MAINS
 
 ### Linguine in carrot and white wine sauce
-> Add meatballs for only $2.50
-
+> ADD MEATBALLS FOR ONLY 3.50
 A different take on pasta sauce: made with onions, carrot puree and white wine. Inspired by Martin Berasategui.
 
 ### Linguine in marinara sauce
-> Add chicken parm for only $2.50
+> ADD CHICKEN PARM FOR ONLY 3.50
 
 Classic Italian dish prepared with marinara sauce, mozzarella and parmesan cheese.
 
