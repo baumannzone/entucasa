@@ -25,10 +25,10 @@ We deliver within Whistler. Call us now at 604-388-8086 and get your order deliv
 ## APPETIZERS
 
 ### Bravas  
-The classic Spanish tapas dish made with Spanish-style fries and spicy Salsa Brava.
+A classic Spanish tapas dish made with Spanish-style fries, spicy Salsa Brava from Madrid and home made garlic mayo. 
 
 ### Spanish tortilla
-Spanish omelette filled with pan-fried potatoes and onion.  
+Spanish omelette filled with pan-fried potatoes and onion served with home made garlic mayo. 
 
 ### Stuffed eggs  
 Eggs stuffed with tuna and piquillo peppers topped with home made mayo.
