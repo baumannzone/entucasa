@@ -25,13 +25,13 @@ We deliver within Whistler. Call us now at 604-388-8086 and get your order deliv
 ## APPETIZERS
 
 ### Bravas  
-A classic Spanish tapas dish made with Spanish-style fries, spicy Salsa Brava from Madrid and home made garlic mayo. 
+A classic Spanish tapas dish made with Spanish-style fries, spicy Salsa Brava from Madrid and house made garlic mayo. 
 
 ### Spanish tortilla
-Spanish omelette filled with pan-fried potatoes and onion served with home made garlic mayo. 
+Spanish omelette filled with pan-fried potatoes and onion served with house made garlic mayo. 
 
 ### Stuffed eggs  
-Eggs stuffed with tuna and piquillo peppers topped with home made mayo.
+Eggs stuffed with tuna and piquillo peppers topped with house made mayo.
 
 ### Beet gazpacho 
 > ONLY $6.0! <Badge text="Awesome" type="success" vertical="top"/> <Badge text="Best Quality" type="warning" vertical="top"/>    
@@ -65,15 +65,14 @@ Classic Italian dish prepared with marinara sauce, mozzarella and parmesan chees
 ### Meatballs
 Just like our meatball linguine in carrot and white wine sauce, served on Spanish-style fries.
 
-### Meatball sub
-A Spanish take on a classic American sandwich. Recipe inspired by Martin Berasatagui.
-
 ### Serrano sub  
 A MUST. Every restaurant across Spain serves this delicious and simple bocadillo. Serrano ham served on a bed of freshly-grated organic tomatoes and drizzled with extra virgin olive oil.
 
 ### Spanish tortilla sub
-Delicious potato omelette bocadillo served with piquillo pepper and home made garlic mayo. 
+Delicious potato omelette bocadillo served with piquillo pepper and house made garlic mayo. 
 
+### Meatball sub
+A Spanish take on a classic American sandwich. Recipe inspired by Martin Berasatagui.
 
 ## DESSERTS
 
