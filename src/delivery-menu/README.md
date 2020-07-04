@@ -34,7 +34,7 @@ Spanish omelette filled with pan-fried potatoes and onion served with house made
 Eggs stuffed with tuna and piquillo peppers topped with house made mayo.
 
 ### Beet gazpacho 
-> ONLY $6.0! <Badge text="Awesome" type="success" vertical="top"/> <Badge text="Best Quality" type="warning" vertical="top"/>    
+> This item ONLY $6.0! <Badge text="Awesome" type="success" vertical="top"/> <Badge text="Best Quality" type="warning" vertical="top"/>    
 
 Cold refreshing tomato base soup made with raw veggies from BC topped with cantaloupe melon. The perfect summer drink.
 
