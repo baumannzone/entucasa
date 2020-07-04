@@ -53,12 +53,12 @@ A mix of fresh greens topped with onion, carrots, and boiled egg, dressed with a
 ## MAINS
 
 ### Linguine in carrot and white wine sauce
-> ADD MEATBALLS FOR ONLY 3.50
+> ADD MEATBALLS FOR ONLY $3.50
 
 A different take on pasta sauce: made with onions, carrot puree and white wine. Inspired by Martin Berasategui.
 
 ### Linguine in marinara sauce
-> ADD CHICKEN PARM FOR ONLY 3.50
+> ADD CHICKEN PARM FOR ONLY $3.50
 
 Classic Italian dish prepared with marinara sauce, mozzarella and parmesan cheese.
 
