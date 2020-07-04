@@ -13,7 +13,7 @@ description: Mediterranean cuisine delivered to your door in Whistler.
 # Delivery Menu — All Food Items $9.90
 
 We deliver within Whistler. Call us now at 604-388-8086 and get your order delivered right to your door.  
->Delivery charge $3.50
+>Delivery charge $3.50. Minimum order two items.
 
 [Appetizers](#appetizers)  
 [Salads](#salads)   
