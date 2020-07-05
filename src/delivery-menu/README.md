@@ -13,7 +13,7 @@ description: Mediterranean cuisine delivered to your door in Whistler.
 # Delivery Menu — All Food Items $9.90
 
 We deliver within Whistler. Call us now at 604-388-8086 and get your order delivered right to your door.  
->Delivery charge $5. Minimun order $20.
+>Delivery charge $3.50. Minimum order two items.
 
 [Appetizers](#appetizers)  
 [Salads](#salads)   
@@ -25,16 +25,16 @@ We deliver within Whistler. Call us now at 604-388-8086 and get your order deliv
 ## APPETIZERS
 
 ### Bravas  
-The classic Spanish tapas dish made with Spanish-style fries and spicy Salsa Brava.
+A classic Spanish tapas dish made with Spanish-style fries, spicy Salsa Brava from Madrid and house made garlic mayo. 
 
 ### Spanish tortilla
-Another classic Spanish dish. Spanish omelette filled with pan-fried potatoes and onion.  
+Spanish omelette filled with pan-fried potatoes and onion served with house made garlic mayo. 
 
 ### Stuffed eggs  
-Eggs stuffed with tuna and piquillo peppers topped with home made mayo.
+Eggs stuffed with tuna and piquillo peppers topped with house made mayo.
 
 ### Beet gazpacho 
-> only $6.0! <Badge text="Awesome" type="success" vertical="top"/> <Badge text="Best Quality" type="warning" vertical="top"/>    
+> This item ONLY $6.0! <Badge text="Awesome" type="success" vertical="top"/> <Badge text="Best Quality" type="warning" vertical="top"/>    
 
 Cold refreshing tomato base soup made with raw veggies from BC topped with cantaloupe melon. The perfect summer drink.
 
@@ -53,27 +53,26 @@ A mix of fresh greens topped with onion, carrots, and boiled egg, dressed with a
 ## MAINS
 
 ### Linguine in carrot and white wine sauce
-> Add meatballs for only $2.50
+> ADD MEATBALLS FOR ONLY $3.50
 
 A different take on pasta sauce: made with onions, carrot puree and white wine. Inspired by Martin Berasategui.
 
 ### Linguine in marinara sauce
-> Add chicken parm for only $2.50
+> ADD CHICKEN PARM FOR ONLY $3.50
 
 Classic Italian dish prepared with marinara sauce, mozzarella and parmesan cheese.
 
 ### Meatballs
 Just like our meatball linguine in carrot and white wine sauce, served on Spanish-style fries.
 
-### Meatball sub
-A Spanish take on a classic American sandwich. Recipe inspired by Martin Berasatagui.
-
 ### Serrano sub  
 A MUST. Every restaurant across Spain serves this delicious and simple bocadillo. Serrano ham served on a bed of freshly-grated organic tomatoes and drizzled with extra virgin olive oil.
 
 ### Spanish tortilla sub
-Delicious potato omelette bocadillo served with piquillo pepper and home made garlic mayo. 
+Delicious potato omelette bocadillo served with piquillo pepper and house made garlic mayo. 
 
+### Meatball sub
+A Spanish take on a classic American sandwich. Recipe inspired by Martin Berasatagui.
 
 ## DESSERTS
 

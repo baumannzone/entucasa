@@ -14,7 +14,7 @@ sidebar: false
 We look forward to connecting with you to see how can we help you.  
 Get in touch, tell us about your upcoming event and we will make it unforgettable. 
 
-- 6043884069
+- 604 388 8086
 - entucasawhistler@gmail.com
 
 #### HOUR OF OPERATION:  
