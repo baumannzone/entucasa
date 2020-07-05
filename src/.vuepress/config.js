@@ -52,7 +52,6 @@ module.exports = {
         author: (_, $site) => $site.themeConfig.author,
         tags: $page => $page.frontmatter.tags,
         twitterCard: _ => 'summary_large_image',
-        // type: $page => ['articles', 'posts', 'blog'].some(folder => $page.regularPath.startsWith('/' + folder)) ? 'article' : 'website',
         url: (_, $site, path) => ($site.themeConfig.domain || '') + path,
         image: ($page, $site) => $page.frontmatter.image && (($site.themeConfig.domain || '') + $page.frontmatter.image),
         publishedAt: $page => $page.frontmatter.date && new Date($page.frontmatter.date),
@@ -66,7 +65,7 @@ module.exports = {
          * @host
          * Mandatory, You have to provide the host URL
          */
-        host: 'https://entucasa.netlify.com/',
+        host: 'https://www.entucasawhistler.com/',
         /**
          * @disallowAll
          * Optional: if it's true, all others options are ignored and exclude all robots from the entire server
@@ -98,21 +97,20 @@ module.exports = {
     [
       'sitemap',
       {
-        hostname: 'https://entucasa.netlify.com/'
+        hostname: 'https://www.entucasawhistler.com/'
       },
     ]
   ],
   head: [
-    ['link', {rel: 'icon', href: `/img/logos/favicon.png`}],
+    ['link', {rel: 'icon', href: `/img/logos/favicon-2.png`}],
     ['meta', {name: 'viewport', content: 'width=device-width, initial-scale=1, shrink-to-fit=no'}],
     ['meta', {name: 'theme-color', content: color}],
     ['meta', {prefix: ogprefix, property: 'og:locale', content: 'en_CA'}],
     ['meta', {prefix: ogprefix, property: 'og:title', content: title}],
     ['meta', {prefix: ogprefix, property: 'twitter:title', content: title}],
     ['meta', {prefix: ogprefix, property: 'og:type', content: 'website'}],
-    ['meta', {prefix: ogprefix, property: 'og:url', content: 'https://entucasa.netlify.com'}],
+    ['meta', {prefix: ogprefix, property: 'og:url', content: 'https://www.entucasawhistler.com/'}],
     ['meta', {prefix: ogprefix, property: 'og:description', content: description}],
-    ['meta', {prefix: ogprefix, property: 'og:image', content: 'https://entucasa.netlify.com/img/meta-tags/entucasa-logo-preview.png'}]
-    // ['meta', {prefix: ogprefix, property: 'og:image', content: 'https://entucasa.netlify.com/img/logos/Rebrand_etc11.jpg'}]
+    ['meta', {prefix: ogprefix, property: 'og:image', content: 'https://www.entucasawhistler.com//img/meta-tags/entucasa-logo-preview.png'}]
   ],
 }
