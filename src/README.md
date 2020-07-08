@@ -21,9 +21,9 @@ This is where Entucasa Express begins — a delicious menu with affordable price
 <br>
 
 
-![En Tu Casa- Express-Mediterranean food delivery](/img/nuevas/home-entucasa-express.jpg)
+![En Tu Casa - Express-Mediterranean food delivery](/img/nuevas/home-entucasa-express.jpg)
 
-[En Tu Casa Express](https://www.entucasawhistler.com/delivery-menu/)
+[En Tu Casa Express](/delivery-menu/)
 
 ### Hour of operation  
 Tuesday - Sunday, from `1:00pm` to `9:00pm`
