@@ -39,8 +39,7 @@ module.exports = {
     [
       '@vuepress/google-analytics',
       {
-        'ga': ''
-        // UA-00000000-0
+        'ga': 'UA-60085396-9'
       }
     ],
     [
@@ -102,7 +101,7 @@ module.exports = {
     ]
   ],
   head: [
-    ['link', {rel: 'icon', href: `/img/logos/favicon-2.png`}],
+    ['link', {rel: 'icon', href: `/img/favicon-2.png`}],
     ['meta', {name: 'viewport', content: 'width=device-width, initial-scale=1, shrink-to-fit=no'}],
     ['meta', {name: 'theme-color', content: color}],
     ['meta', {prefix: ogprefix, property: 'og:locale', content: 'en_CA'}],
