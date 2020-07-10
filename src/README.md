@@ -7,7 +7,7 @@ description: En Tu Casa - Spanish dining, provides a Spanish catering service al
 ---
 <figure class="full-width-img">
   <img src="/img/nuevas/home-header-paellero-pequeno.jpg" alt="En Tu Casa-Seafood paella-Food delivery">
-  <figcaption>En Tu Casa charcuterie board</figcaption>
+  <figcaption>En Tu Casa Charcuterie board</figcaption>
 </figure>
 
 # En Tu Casa EXPRESS
