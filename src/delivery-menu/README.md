@@ -2,7 +2,7 @@
 
 sidebar: false
 title: Whistler daily delivery menu. En Tu Casa Express
-description: Mediterranean cuisine delivered to your door in Whistler.
+description: Spanish cuisine delivered to your door in Whistler.
 
 ---
 <figure class="full-width-img">
@@ -79,5 +79,5 @@ A Spanish take on a classic American sandwich. Recipe inspired by Martin Berasat
 ### Cheesecake
 A Spanish take on cheesecake. Made with ricotta and cream, served with organic strawberry jam.
 ### Serrano melon brochettes
-Spanish Serrano ham,melon and graves skewers. The perfect summer bite.
+Spanish Serrano ham, cantaloupe melon and graves skewers. The perfect summer bite.
 
