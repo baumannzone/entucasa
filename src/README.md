@@ -27,6 +27,7 @@ This is where Entucasa Express begins — a delicious menu with affordable price
 
 ### Hour of operation  
 Tuesday - Friday, from `12:00pm` to `9:00pm`
+
 Saturday - Sunday, from `1:00pm` to `9:00pm`
 
 
