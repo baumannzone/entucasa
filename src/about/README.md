@@ -14,6 +14,6 @@ description: En tu Casa was created by Chef Javier and Maria, a couple from Madr
 > SPANISH DINING DELIVERY
 
 **En tu Casa** was created by Chef Javier and Maria.  
-A couple from Madrid, Spain who chose to make Whistler their home over 8 years ago. After a year preparing Spanish dishes for Whistlerites, they have to decided to expand their menu to include more Mediterranean-inspired cuisine.  
-Bringing their families’ recipes, Spain's gastronomic tradition, and Mediterranean flavours to Whistler — at affordable prices.
+A couple from Madrid, Spain who chose to make Whistler their home over 8 years ago. After a year preparing Spanish dishes for Whistlerites, they have decided to expand their menu to include more Mediterranean-inspired cuisine.  
+Bringing their families’ recipes, Spain's gastronomic tradition to Whistler — at affordable prices.
 
