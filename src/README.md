@@ -11,7 +11,7 @@ description: En Tu Casa - Spanish dining, provides a Spanish catering service al
 </figure>
 
 # En Tu Casa EXPRESS
-> MEDITERRANEAN DINING DELIVERY
+> SPANISH DINING DELIVERY
 
 After being able to share our **Spanish** cuisine for over a year with the Whistler community, we have decided to make the leap forward and bring another piece of our culinary culture with a new Mediterranean-inspired menu.
  
@@ -26,7 +26,7 @@ This is where Entucasa Express begins — a delicious menu with affordable price
 [En Tu Casa Express](/delivery-menu/)
 
 ### Hour of operation  
-Tuesday - Sunday, from `1:00pm` to `9:00pm`
+Tuesday - Sunday, from `12:00pm` to `9:00pm`
 
 
 ### We are social!
