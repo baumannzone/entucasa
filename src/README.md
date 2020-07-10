@@ -21,7 +21,7 @@ This is where Entucasa Express begins — a delicious menu with affordable price
 <br>
 
 
-![En Tu Casa - Express-Mediterranean food delivery](/img/nuevas/home-entucasa-express.jpg)
+![En Tu Casa - Express-Spanish food delivery](/img/nuevas/home-entucasa-express.jpg)
 
 [En Tu Casa Express](/delivery-menu/)
 
