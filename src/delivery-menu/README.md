@@ -6,7 +6,7 @@ description: Spanish cuisine delivered to your door in Whistler.
 
 ---
 <figure class="full-width-img">
-  <img src="/img/nuevas/entucasa-express.jpg" alt="En Tu Casa- Express-Mediterranean food delivery">
+  <img src="/img/nuevas/entucasa-express.jpg" alt="En Tu Casa- Express-Spanish food delivery">
   <figcaption>En Tu Casa Express.</figcaption>
 </figure>
 
