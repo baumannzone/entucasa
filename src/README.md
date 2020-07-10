@@ -26,7 +26,8 @@ This is where Entucasa Express begins — a delicious menu with affordable price
 [En Tu Casa Express](/delivery-menu/)
 
 ### Hour of operation  
-Tuesday - Sunday, from `12:00pm` to `9:00pm`
+Tuesday - Friday, from `12:00pm` to `9:00pm`
+Saturday - Sunday, from `1:00pm` to `9:00pm`
 
 
 ### We are social!
