@@ -77,7 +77,7 @@ A Spanish take on a classic American sandwich. Recipe inspired by Martin Berasat
 ## DESSERTS
 
 ### Cheesecake
-A Spanish take on cheesecake. Made with ricotta and cream, served with organic strawberry jam.
+A Spanish take on cheesecake. Made with ricotta and cream, served with organic strawberry jam and whipped cream.
 ### Serrano melon brochettes
 Spanish Serrano ham, cantaloupe melon and graves skewers. The perfect summer bite.
 
