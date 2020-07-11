@@ -6,15 +6,14 @@ description: The authentic Spanish paella made in Whister
 
 ---
 <figure class="full-width-img">
-  <img src="/img/nuevas/entucasa-fresh-made-paella.jpg" alt="entucasa - fresh made seafood paella-Food delivery">
+  <img src="/img/fresh-made-paella/fresh-made-paella.jpg" alt="En Tu Casa - Fresh made seafood paella - Food delivery">
   <figcaption>Fresh made seafood paella</figcaption>
 </figure>
 
-
-
-## FRESH MADE PAELLA 
-OUR HOUSE SPECIALTY. Traditional Spanish paella made fresh for every order. Delivered and served on a traditional paella pan.
-Call us at 604-388-8086 and get your booked order.
+# FRESH MADE PAELLA
+ 
+OUR HOUSE SPECIALTY. Traditional Spanish paella made fresh for every order. Delivered and served on a traditional paella pan.  
+Call us at **604 388 8086** and get your booked order.
 
 <CallButton/>
 
@@ -43,7 +42,12 @@ The perfect choice for vegetarians and vegans. Chef’s selection of vegetables,
 <br/>
 <br/>
 
-> Minimum order of 4 people. Please provide us with 24 hours notice. We will pick up the paella pan the day after.
+::: tip Remember 👇
+
+Minimum order of **4 people**. Please provide us with 24 hours notice.  
+We will pick up the paella pan the day after.
+
+:::
 
 
 
