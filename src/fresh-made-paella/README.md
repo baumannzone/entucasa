@@ -6,7 +6,7 @@ description: The authentic Spanish paella made in Whister
 
 ---
 <figure class="full-width-img">
-  <img src="/img/fresh-made-paella/fresh-made-paella.jpg" alt="En Tu Casa - Fresh made seafood paella - Food delivery">
+  <img src="/img/fresh-made-paella/fresh-made-paella.jpg" alt="En Tu Casa - Fresh made seafood paella - Whistler Food delivery">
   <figcaption>Fresh made seafood paella</figcaption>
 </figure>
 
