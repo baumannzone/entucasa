@@ -6,7 +6,7 @@ description: En Tu Casa - Spanish dining, provides a Spanish catering service al
 
 ---
 <figure class="full-width-img">
-  <img src="/img/home/home-header.jpg" alt="En Tu Casa-Seafood paella-Food delivery">
+  <img src="/img/home/home-header.jpg" alt="En Tu Casa-Seafood paella-Whistler Food delivery">
   <figcaption>En Tu Casa · Charcuterie board</figcaption>
 </figure>
 
@@ -21,7 +21,7 @@ This is where Entucasa Express begins — a delicious menu with affordable price
 <br>
 
 
-![En Tu Casa - Express-Spanish food delivery](/img/home/home-entucasa-express.jpg)
+![En Tu Casa - Express - Whistler food delivery](/img/home/home-entucasa-express.jpg)
 
 [En Tu Casa Express](/delivery-menu/)
 
