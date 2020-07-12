@@ -5,7 +5,7 @@ sidebar: false
 ---
 
 <figure class="full-width-img">
-  <img src="/img/nuevas/contact.jpg" alt="En Tu Casa-Charcuterie board-Food delivery">
+  <img src="/img/nuevas/contact.jpg" alt="En Tu Casa-Spanish cooking-Charcuterie board-Whistler food delivery">
   <figcaption>Get in touch with us</figcaption>
 </figure>
 
