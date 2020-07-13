@@ -2,7 +2,7 @@
 
 sidebar: false
 title: Whistler food delivery and catering service. En Tu Casa - Spanish Cooking. 
-description: Spanish cuisine delivered to your door in Whistler.
+description: En Tu Casa - Spanish Cooking, provides a Spanish catering service along the Sea to Sky corridor, and a daily food delivery services within Whistler.
 
 ---
 
