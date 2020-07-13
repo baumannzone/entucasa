@@ -1,12 +1,12 @@
 ---
 
 sidebar: false
-title: Whistler daily delivery menu. En Tu Casa Express
+title: Whistler food delivery service. En Tu Casa Express. All food items $9.90
 description: Spanish cuisine delivered to your door in Whistler.
 
 ---
 <figure class="full-width-img">
-  <img src="/img/delivery-menu/entucasa-express.jpg" alt="En Tu Casa- Express - Whistler food delivery">
+  <img src="/img/delivery-menu/entucasa-express.jpg" alt="En Tu Casa - Express - Whistler food delivery">
   <figcaption>En Tu Casa Express</figcaption>
 </figure>
 
