@@ -13,12 +13,14 @@ description: Spanish cuisine delivered to your door in Whistler.
 # Delivery Menu — All Food Items $9.90
 
 <br/>
+
 ::: tip Reminder 👇
 
 Our delivery service will be interrupted today due to a private event.
-Sorry for the inconvenience 
+Sorry for the inconvenience. 
 
 :::
+
 <br/>
 
 
