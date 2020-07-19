@@ -18,7 +18,7 @@ We deliver within Whistler. Call us now at 604-388-8086 and get your order deliv
 [Appetizers](#appetizers)  
 [Salads](#salads)   
 [Mains](#mains)  
-[Dessert](#dessert)  
+[Dessert](#desserts)  
 
 
 <CallButton/>
