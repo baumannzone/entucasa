@@ -29,8 +29,3 @@ This is where Entucasa Express begins — a delicious menu with affordable price
 Tuesday - Friday, from `12:00pm` to `9:00pm`
 
 Saturday - Sunday, from `1:00pm` to `9:30pm`
-
-
-### We are social!
-- [https://www.facebook.com/entucasawhisler](https://www.facebook.com/entucasawhisler)
-- [https://www.instagram.com/entucasawhistler](https://www.instagram.com/entucasawhistler)
