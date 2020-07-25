@@ -1,6 +1,6 @@
 <template>
   <div class="call-us-btn">
-    <a href="tel:6043888086" title="Call us"> Call us </a>
+    <a href="tel:6043888086" id="button-call-us" title="Click to call us"> Call us </a>
     <!--<p class="number">
       <small>604 388 8086</small>
     </p>-->
