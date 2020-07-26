@@ -9,7 +9,7 @@ description: Spanish cuisine delivered to your door in Whistler.
   <img src="/img/delivery-menu/entucasa-express.jpg" alt="En Tu Casa - Express - Whistler food delivery">
 </figure>
 
-# Delivery Menu — All Food Items $9.90
+# Delivery Menu — Authenc Spanish food delivered for $9.90
 
 We deliver within Whistler. Call us now at 604-388-8086 and get your order delivered right to your door.  
 
@@ -77,6 +77,8 @@ A Spanish take on cheesecake. Made with ricotta and cream, served with organic s
 ### Serrano melon brochettes
 Spanish Serrano ham, cantaloupe melon and graves skewers. The perfect summer bite.
 
+<br/>
+
 <hr>
 
 [Appetizers](#appetizers)  
@@ -85,7 +87,6 @@ Spanish Serrano ham, cantaloupe melon and graves skewers. The perfect summer bit
 [Dessert](#desserts)  
 
 
-<br/>
 <br/>
 
 <hr>
