@@ -9,9 +9,10 @@ description: Spanish cuisine delivered to your door in Whistler.
   <img src="/img/delivery-menu/entucasa-express.jpg" alt="En Tu Casa - Express - Whistler food delivery">
 </figure>
 
-# Delivery Menu — Authentic Spanish food delivered for $9.90
+# Authentic Spanish food delivered for $9.90
+>Whistler food delivery menu
 
-We deliver within Whistler. Call us now at 604-388-8086 and get your order delivered right to your door.  
+Call us now at 604-388-8086 and get your order delivered right to your door.  
 
 <CallButton/>
 
