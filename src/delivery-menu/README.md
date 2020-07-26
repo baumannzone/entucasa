@@ -12,13 +12,6 @@ description: Spanish cuisine delivered to your door in Whistler.
 # Delivery Menu — All Food Items $9.90
 
 We deliver within Whistler. Call us now at 604-388-8086 and get your order delivered right to your door.  
->Delivery charge $3.50. Minimum order two items.
-
-[Appetizers](#appetizers)  
-[Salads](#salads)   
-[Mains](#mains)  
-[Dessert](#desserts)  
-
 
 <CallButton/>
 
@@ -84,4 +77,21 @@ A Spanish take on cheesecake. Made with ricotta and cream, served with organic s
 ### Serrano melon brochettes
 Spanish Serrano ham, cantaloupe melon and graves skewers. The perfect summer bite.
 
+<hr>
 
+[Appetizers](#appetizers)  
+[Salads](#salads)   
+[Mains](#mains)  
+[Dessert](#desserts)  
+
+
+<br/>
+<br/>
+
+<hr>
+
+<br/>
+<br/>
+
+
+>Delivery charge $3.50. Minimum order two items.
