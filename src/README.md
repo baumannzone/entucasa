@@ -10,8 +10,8 @@ description: En Tu Casa - Spanish Cooking, provides a Spanish catering service a
   <figcaption>En Tu Casa · Charcuterie board</figcaption>
 </figure>
 
-# Authentic Spanish food delivered for $9.9
-> [En Tu Casa Express](/delivery-menu/)
+## Authentic Spanish food delivered for $9.9
+[En Tu Casa Express](/delivery-menu/)
 
 <CallButton/>
 
