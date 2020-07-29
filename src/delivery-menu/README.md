@@ -12,7 +12,7 @@ description: Spanish cuisine delivered to your door in Whistler.
 # Authentic Spanish food delivered to your door.
 > ALL FOOD ITEMS $9.90
 
-Call us now at +1 604-388-8086 and get your order delivered right to your door.  
+Call us now at 604-388-8086 and get your order delivered right to your door.  
 
 <CallButton/>
 
