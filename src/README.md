@@ -10,7 +10,7 @@ description: En Tu Casa - Spanish Cooking, provides a Spanish catering service a
   <figcaption>En Tu Casa · Charcuterie board</figcaption>
 </figure>
 
-## Authentic Spanish food delivered for $9.9
+## Authentic Spanish food delivered for $9.90
 > [En Tu Casa Express](/delivery-menu/)
 
 <CallButton/>
@@ -24,7 +24,7 @@ description: En Tu Casa - Spanish Cooking, provides a Spanish catering service a
 
 After being able to share our **Spanish** cuisine for over a year with the Whistler community, we have decided to make the leap forward and bring another piece of our culinary culture with a new Mediterranean-inspired menu.
  
-This is where Entucasa Express begins — a delicious menu with affordable prices. Made with the Whistler community in mind. We'd love for you to join us on this new journey. 
+This is where Entucasa Express begins — a delicious delivery menu with affordable prices. Made with the Whistler community in mind. We'd love for you to join us on this new journey. 
 
 [En Tu Casa Express](/delivery-menu/)
 
