@@ -16,13 +16,13 @@ description: En Tu Casa - Spanish Cooking, provides a Spanish catering service a
 We look forward to connecting with you to see how can we help you.  
 Get in touch, tell us about your upcoming event and we will make it unforgettable. 
 
-- 604 388 8086
+- **604-388-8086**
 - entucasawhistler@gmail.com
 
 #### HOUR OF OPERATION:  
-Tuesday - Friday, from `12:00pm` to `9:00pm`
+Tuesday-Friday, from `12:00pm` to `9:00pm`
 
-Saturday - Sunday, from `1:00pm` to `9:30pm`
+Saturday-Sunday, from `1:00pm` to `9:30pm`
 
 ### We are social!
 - [https://www.facebook.com/entucasawhisler](https://www.facebook.com/entucasawhisler)
