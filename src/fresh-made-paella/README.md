@@ -13,7 +13,7 @@ description: The authentic Spanish paella made in Whister
 # FRESH MADE PAELLA
  
 OUR HOUSE SPECIALTY. Traditional Spanish paella made fresh for every order. Delivered and served on a traditional paella pan.  
-Call us at **604 388 8086** and get your booked order.
+Call us at **604-388-8086** and get your booked order.
 
 <CallButton/>
 
