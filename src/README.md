@@ -18,8 +18,7 @@ description: En Tu Casa - Spanish Cooking, provides a Spanish catering service a
 ![En Tu Casa - Express - Whistler food delivery](/img/home/home-entucasa-express.jpg)
 
 <br>
-<CallButton/>
-<br>
+
 
 
 After being able to share our **Spanish** cuisine for over a year with the Whistler community, we have decided to make the leap forward and bring another piece of our culinary culture with a new Mediterranean-inspired menu.
