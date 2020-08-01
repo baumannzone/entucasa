@@ -20,19 +20,20 @@ Call us at **604-388-8086** and get your booked order.
 ### Seafood paella 
 > 20.00 per person
 
-A classic Spanish dining experience. Our seafood paella is made with home made seafood broth, Spanish Bomba rice and a chef’s selection of seafood.
+A classic Spanish dining experience. Our seafood paella is made with house made seafood broth, Spanish Bomba rice and a chef’s selection of seafood.
 
-### Valenciana paella 
+### Paella valenciana 
 > 20.00 per person
 
-The original recipe of all paellas. Made with home made broth, pork ribs, chicken, green beans and bomba rice.
+The original recipe of all paellas. Made with house made broth, pork ribs, chicken, green beans and bomba rice.
 
 
 ### Vegan paella
 > 18.00 per person
 
-The perfect choice for vegetarians and vegans. Chef’s selection of vegetables, rice, homemade tomato sauce and vegetable home made broth.
+The perfect choice for vegetarians and vegans. Chef’s selection of vegetables, rice, house made tomato sauce and vegetable home made broth.
 
+ 
 
 <br/>
 <br/>
