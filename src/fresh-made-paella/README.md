@@ -46,8 +46,7 @@ The perfect choice for vegetarians and vegans. Chef’s selection of vegetables,
 ::: tip Remember 👇
 
 Minimum order of **4 people**. Please provide us with 24 hours notice.  
-We will pick up the paella pan the day after.
-Delivery charge $3.50.
+We will pick up the paella pan the day after.  Delivery charge $3.50.
 
 :::
 
