@@ -24,6 +24,9 @@ Call us now at **604-388-8086** and get your order delivered right to your door.
 ### Bravas  
 A classic Spanish tapas dish made with Spanish-style fries, spicy Salsa Brava from Madrid and house made garlic mayo. 
 
+### Garlic prawns
+Head on garlic prawns that will give you the chance of sucking on that flavourful head. A little bit of chilli flakes to give them some spiciness plus some garlic and parsey.
+
 ### Spanish tortilla
 Spanish omelette filled with pan-fried potatoes and onion served with house made garlic mayo. 
 
