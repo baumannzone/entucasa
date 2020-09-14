@@ -22,7 +22,7 @@ Get in touch, tell us about your upcoming event and we will make it unforgettabl
 #### HOUR OF OPERATION:  
 Tuesday-Friday, from `12:00pm` to `9:00pm`
 
-Saturday-Sunday, from `1:00pm` to `9:30pm`
+Saturday-Sunday, from `1:00pm` to `9:00pm`
 
 ### We are social!
 - [https://www.facebook.com/entucasawhisler](https://www.facebook.com/entucasawhisler)
