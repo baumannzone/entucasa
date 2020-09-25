@@ -27,6 +27,10 @@ A classic Spanish dining experience. Our seafood paella is made with house made 
 
 The original recipe of all paellas. Made with house made broth, pork ribs, chicken, green beans and bomba rice.
 
+### Paella mixta 
+> 22.00 per person
+
+Our seafood paella served with chicken wings and pork ribs for those who love everything. 
 
 ### Vegan paella
 > 18.00 per person
