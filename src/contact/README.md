@@ -20,9 +20,11 @@ Get in touch, tell us about your upcoming event and we will make it unforgettabl
 - entucasawhistler@gmail.com
 
 #### HOUR OF OPERATION:  
-Tuesday-Friday, from `12:00pm` to `9:00pm`
+Tuesday-Thursday, from `12:00pm` to `9:00pm`
 
-Saturday-Sunday, from `1:00pm` to `9:00pm`
+Friday-Saturday, from `1:00pm` to `9:30pm`
+
+Sunday, from `1:00pm` to `9:00pm`
 
 ### We are social!
 - [https://www.facebook.com/entucasawhisler](https://www.facebook.com/entucasawhisler)
