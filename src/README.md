@@ -39,4 +39,4 @@ Tuesday-Thursday, from `12:00pm` to `9:00pm`
 
 Friday-Saturday, from `1:00pm` to `9:30pm`
 
-Sunday, from `1:00pm` to `9:00pm
+Sunday, from `1:00pm` to `9:00pm`
