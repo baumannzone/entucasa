@@ -22,12 +22,13 @@ description: En Tu Casa - Spanish Cooking, provides a Spanish catering service a
 
 OUR HOUSE SPECIALTY. Traditional Spanish paella made fresh for every order. Delivered and served on a traditional paella pan.  
 Call us at **604-388-8086** and get your booked order.
-<CallButton/>
 
-<br>
 
 > [Fresh made paella](/fresh-made-paella/)
 
+<CallButton/>
+
+# EN TU CASA EXPRESS
 ![En Tu Casa - Express - Whistler food delivery](/img/home/home-entucasa-express.jpg)
 
 > [En Tu Casa Express](/delivery-menu/)
