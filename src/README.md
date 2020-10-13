@@ -33,8 +33,7 @@ Call us at **604-388-8086** and get your booked order.
 
 ![En Tu Casa - Express - Whistler food delivery](img/delivery-menu/entucasa-express.jpg)
 
-> [View full EnTuCasa Express menu](/delivery-menu/)
-
+<br>
 
 ## APPETIZERS
 
@@ -112,7 +111,7 @@ After being able to share our **Spanish** cuisine for over a year with the Whist
  
 This is where Entucasa Express begins — a delicious delivery menu with affordable prices. Made with the Whistler community in mind. We'd love for you to join us on this new journey. 
 
-[En Tu Casa Express](/delivery-menu/)
+> [View full EnTuCasa Express menu](/delivery-menu/)
 
 <br/>
 
