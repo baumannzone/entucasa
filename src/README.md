@@ -24,7 +24,7 @@ OUR HOUSE SPECIALTY. Traditional Spanish paella made fresh for every order. Deli
 Call us at **604-388-8086** and get your booked order.
 
 
-> [Fresh made paella](/fresh-made-paella/)
+> [View full paella menu](/fresh-made-paella/)
 
 <CallButton/>
 
@@ -33,7 +33,7 @@ Call us at **604-388-8086** and get your booked order.
 
 ![En Tu Casa - Express - Whistler food delivery](img/delivery-menu/entucasa-express.jpg)
 
-> [En Tu Casa Express](/delivery-menu/)
+> [View full EnTuCasa Express menu](/delivery-menu/)
 
 
 ## APPETIZERS
