@@ -29,6 +29,8 @@ Call us at **604-388-8086** and get your booked order.
 <CallButton/>
 
 # EN TU CASA EXPRESS
+> ALL FOOD ITEMS $9.90
+
 ![En Tu Casa - Express - Whistler food delivery](/img/home/home-entucasa-express.jpg)
 
 > [En Tu Casa Express](/delivery-menu/)
