@@ -34,7 +34,7 @@ Call us at **604-388-8086** and get your booked order.
 > [En Tu Casa Express](/delivery-menu/)
 
 
-## APPETIZERS 
+## APPETIZERS
 
 ### Bravas  
 A classic Spanish tapas dish made with Spanish-style fries, spicy Salsa Brava from Madrid and house made garlic mayo. 
