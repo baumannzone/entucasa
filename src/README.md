@@ -98,6 +98,10 @@ A Spanish take on cheesecake. Made with ricotta and cream, served with organic s
 ### Serrano melon brochettes
 Spanish Serrano ham, cantaloupe melon and grapes skewers. The perfect summer bite.
 
+<br>
+<CallButton/>
+<br>
+
 ![En Tu Casa - Express - Whistler food delivery](/img/home/home-entucasa-express.jpg)
 
 <br>
