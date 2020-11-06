@@ -23,9 +23,11 @@ Call us at **604-388-8086** and get your booked order.
 <CallButton/>
 
 # EN TU CASA EXPRESS
-DAYLI DELIVERY SERVICE. Authentic spanish food delivered within Whistler.
 
 ![En Tu Casa - Express - Whistler food delivery](img/delivery-menu/entucasa-express.jpg)
+
+DAYLI DELIVERY SERVICE. Authentic spanish food delivered within Whistler. Call us at **604-388-8086** and get your order delivered to your door.
+
 > ALL FOOD ITEMS $9.90!
 
 <CallButton/>
