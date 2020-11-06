@@ -11,7 +11,6 @@ description: En Tu Casa - Spanish Cooking, provides a Spanish catering service a
   <figcaption>Get in touch with us</figcaption>
 </figure>
 
-# CONTACT US 
 
 We look forward to connecting with you to see how can we help you.  
 Get in touch, tell us about your upcoming event and we will make it unforgettable. 
