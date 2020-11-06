@@ -11,7 +11,6 @@ description: En tu Casa was created by Chef Javier and Maria, a couple from Madr
   <figcaption>En Tu Casa Express - Cheese Board</figcaption>
 </figure>
 
-# ABOUT US
 
 ## En Tu Casa · Spanish Cooking
 > SPANISH DINING DELIVERY 
