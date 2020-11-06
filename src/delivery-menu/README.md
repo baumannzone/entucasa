@@ -81,8 +81,11 @@ A Spanish take on cheesecake. Made with ricotta and cream, served with organic s
 Spanish Serrano ham, cantaloupe melon and grapes skewers. The perfect summer bite.
 
 <br/>
-![En Tu Casa - Express - Whistler food delivery](/img/home/home-entucasa-express.jpg)
+
+![En Tu Casa - Express - Whistler food delivery](/img/home/home-entucasa-express.jpg) 
+
 <br/>
+
 
 <hr>
 
