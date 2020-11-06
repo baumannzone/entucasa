@@ -9,9 +9,6 @@ description: En Tu Casa - Spanish Cooking, provides a Spanish catering service a
   <img src="/img/home/HOME.jpg" alt="En Tu Casa-Seafood paella-Whistler Food delivery">
 </figure>
 
-
-<br>
-<CallButton/>
 <br>
 
 # FRESH MADE PAELLA
@@ -20,7 +17,6 @@ description: En Tu Casa - Spanish Cooking, provides a Spanish catering service a
 
 OUR HOUSE SPECIALTY. Traditional Spanish paella made fresh for every order. Delivered and served on a traditional paella pan.  
 Call us at **604-388-8086** and get your booked order.
-
 
 > [View full paella menu](/fresh-made-paella/)
 
@@ -32,6 +28,7 @@ DAYLI DELIVERY SERVICE. Authentic spanish food delivered within Whistler.
 ![En Tu Casa - Express - Whistler food delivery](img/delivery-menu/entucasa-express.jpg)
 > ALL FOOD ITEMS $9.90!
 
+<CallButton/>
 <br>
 
 ## APPETIZERS
