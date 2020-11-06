@@ -16,7 +16,6 @@ Call us now at **604-388-8086** and get your order delivered right to your door.
 
 <CallButton/>
 
-![En Tu Casa - Express - Whistler food delivery](/img/home/home-entucasa-express.jpg)
 
 
 ## APPETIZERS
@@ -81,6 +80,8 @@ A Spanish take on cheesecake. Made with ricotta and cream, served with organic s
 ### Serrano melon brochettes
 Spanish Serrano ham, cantaloupe melon and grapes skewers. The perfect summer bite.
 
+<br/>
+![En Tu Casa - Express - Whistler food delivery](/img/home/home-entucasa-express.jpg)
 <br/>
 
 <hr>
