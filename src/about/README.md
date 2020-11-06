@@ -8,7 +8,6 @@ description: En tu Casa was created by Chef Javier and Maria, a couple from Madr
 
 <figure class="full-width-img">
   <img src="/img/about/cheese-board.jpg" alt="En Tu Casa - Whistler food delivery - Spanish cooking- Cheese board">
-  <figcaption>En Tu Casa Express - Cheese Board</figcaption>
 </figure>
 
 
