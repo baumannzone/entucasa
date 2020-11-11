@@ -55,6 +55,4 @@ Delivery charge $3.50.
 
 <br/>
 
-<figure class="full-width-img">
-  <img src="/img/delivery-menu/covi.jpg" alt="En Tu Casa-Seafood paella-Whistler Food delivery">
-</figure>
+
