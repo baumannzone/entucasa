@@ -9,7 +9,9 @@ description: En Tu Casa - Spanish Cooking, provides a Spanish catering service a
   <img src="/img/home/HOME.jpg" alt="En Tu Casa-Seafood paella-Whistler Food delivery">
 </figure> 
 
-
+<figure class="full-width-img">
+  <img src="/img/home/covid.jpg" alt="En Tu Casa-Seafood paella-Whistler Food delivery">
+</figure> 
 
 <br>
 
