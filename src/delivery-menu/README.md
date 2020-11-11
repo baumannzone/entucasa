@@ -110,7 +110,3 @@ Spanish Serrano ham, cantaloupe melon and grapes skewers. The perfect summer bit
 
 <br/>
 
-<figure class="full-width-img">
-  <img src="/img/delivery-menu/covi.jpg" alt="En Tu Casa-Seafood paella-Whistler Food delivery">
-</figure>
-
