@@ -107,3 +107,9 @@ Spanish Serrano ham, cantaloupe melon and grapes skewers. The perfect summer bit
 
 
 >Delivery charge $3.50. Minimum order two items.
+
+<br/>
+
+<figure class="full-width-img">
+  <img src="/img/delivery-menu/covi.jpg" alt="En Tu Casa-Seafood paella-Whistler Food delivery">
+</figure>
