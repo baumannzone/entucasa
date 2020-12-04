@@ -128,8 +128,8 @@ This is where Entucasa Express begins — a delicious delivery menu with afforda
 
 
 ### Hour of operation  
-Tuesday-Thursday, from `12:00pm` to `9:00pm`
+Tuesday-Thursday, from `04:00pm` to `10:30pm`
 
-Friday-Saturday, from `1:00pm` to `9:30pm`
+Friday-Saturday, from `04:00pm` to `11:00pm`
 
-Sunday, from `1:00pm` to `9:00pm`
+Sunday, from `04:00pm` to `10:00pm`
