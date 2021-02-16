@@ -10,6 +10,10 @@ description: En Tu Casa - Spanish Cooking, provides a Spanish catering service a
   <img src="/img/nuevas/contact.jpg" alt="En Tu Casa-Spanish cooking-Charcuterie board-Whistler food delivery">
 </figure>
 
+::: danger WARNING
+Temporarily closed, we will be back soon.
+:::
+
 
 We look forward to connecting with you to see how can we help you.  
 Get in touch, tell us about your upcoming event and we will make it unforgettable. 
